@@ -238,7 +238,7 @@ def analyse_gs_connectivity(G, t):
         print(f"Error in analyse_gs_connectivity: {str(e)}")
         return None
 
-def process_time_point(t, epoch, satellites, ground_stations, list_isls, max_gsl_length_m, max_isl_length_m, csv_paths):
+def process_time_point(t, epoch, satellites, ground_stations, list_isls, max_gsl_length_m, max_isl_length_m, csv_paths, pickles_path):
     try:
         path_csv_path, betweenness_csv_path = csv_paths
         
@@ -247,6 +247,9 @@ def process_time_point(t, epoch, satellites, ground_stations, list_isls, max_gsl
             epoch, t, satellites, ground_stations,
             list_isls, max_gsl_length_m, max_isl_length_m
         )
+
+        with open(f"{pickles_path}/{t}.pickle", "wb") as f:
+            pickle.dump(graph, f)
         
         if graph is None:
             return t, False
@@ -297,6 +300,7 @@ def betweenness_analysis(
 
     paths_dir = os.path.join(base_output_dir, 'network_paths')
     path_csv_path, betweenness_csv_path = initialise_metrics_csv(paths_dir)
+    pickles_path = os.path.join(base_output_dir, 'pickles')
 
     # Generate time points
     time_points = list(range(0, simulation_end_time_ns, dynamic_state_update_interval_ns))
@@ -333,7 +337,8 @@ def betweenness_analysis(
                         list_isls, 
                         max_gsl_length_m, 
                         max_isl_length_m,
-                        (path_csv_path, betweenness_csv_path)
+                        (path_csv_path, betweenness_csv_path),
+                        pickles_path
                     ): t for t in batch
                 }
                 
