@@ -1,0 +1,133 @@
+Starting path analysis...
+Loading input data...
+Setting up parameters...
+Will process 100 time points
+Using 8 worker threads
+
+Starting parallel processing...
+Processing time points:   0%|          | 0/100 [00:00<?, ?it/s]Processing time points:   1%|          | 1/100 [00:43<1:12:18, 43.83s/it]Processing time points:   2%|▏         | 2/100 [00:44<30:27, 18.64s/it]  Processing time points:   3%|▎         | 3/100 [00:45<17:06, 10.58s/it]Processing time points:   4%|▍         | 4/100 [00:46<10:56,  6.84s/it]Processing time points:   5%|▌         | 5/100 [00:48<07:50,  4.95s/it]Processing time points:   7%|▋         | 7/100 [00:49<03:59,  2.57s/it]Processing time points:   8%|▊         | 8/100 [00:49<02:57,  1.93s/it]Processing time points:   9%|▉         | 9/100 [00:58<06:05,  4.01s/it]Processing time points:  11%|█         | 11/100 [01:42<17:38, 11.90s/it]Processing time points:  12%|█▏        | 12/100 [01:43<13:32,  9.23s/it]Processing time points:  13%|█▎        | 13/100 [01:43<10:05,  6.96s/it]Processing time points:  14%|█▍        | 14/100 [01:46<08:33,  5.97s/it]Processing time points:  17%|█▋        | 17/100 [01:47<03:53,  2.82s/it]Processing time points:  18%|█▊        | 18/100 [01:48<03:36,  2.64s/it]Processing time points:  19%|█▉        | 19/100 [01:58<05:30,  4.07s/it]Processing time points:  21%|██        | 21/100 [02:37<13:21, 10.15s/it]Processing time points:  22%|██▏       | 22/100 [02:44<12:24,  9.55s/it]Processing time points:  23%|██▎       | 23/100 [02:45<09:40,  7.54s/it]Processing time points:  24%|██▍       | 24/100 [02:46<07:25,  5.86s/it]Processing time points:  25%|██▌       | 25/100 [02:46<05:27,  4.36s/it]Processing time points:  26%|██▌       | 26/100 [02:47<04:00,  3.25s/it]Processing time points:  28%|██▊       | 28/100 [02:49<02:51,  2.38s/it]Processing time points:  29%|██▉       | 29/100 [02:57<04:13,  3.57s/it]Processing time points:  30%|███       | 30/100 [02:57<03:17,  2.82s/it]Processing time points:  31%|███       | 31/100 [03:40<15:31, 13.50s/it]Processing time points:  32%|███▏      | 32/100 [03:43<11:54, 10.50s/it]Processing time points:  33%|███▎      | 33/100 [03:43<08:37,  7.73s/it]Processing time points:  35%|███▌      | 35/100 [03:44<04:39,  4.30s/it]Processing time points:  36%|███▌      | 36/100 [03:46<04:01,  3.78s/it]Processing time points:  37%|███▋      | 37/100 [03:46<03:05,  2.95s/it]Processing time points:  38%|███▊      | 38/100 [03:47<02:30,  2.43s/it]Processing time points:  39%|███▉      | 39/100 [03:56<04:11,  4.12s/it]Processing time points:  40%|████      | 40/100 [03:56<03:09,  3.15s/it]Processing time points:  41%|████      | 41/100 [04:40<14:25, 14.68s/it]Processing time points:  42%|████▏     | 42/100 [04:42<10:38, 11.00s/it]Processing time points:  43%|████▎     | 43/100 [04:43<07:42,  8.11s/it]Processing time points:  44%|████▍     | 44/100 [04:43<05:24,  5.79s/it]Processing time points:  45%|████▌     | 45/100 [04:44<03:50,  4.18s/it]Processing time points:  46%|████▌     | 46/100 [04:44<02:43,  3.02s/it]Processing time points:  47%|████▋     | 47/100 [04:45<02:07,  2.41s/it]Processing time points:  48%|████▊     | 48/100 [04:46<01:43,  1.99s/it]Processing time points:  49%|████▉     | 49/100 [04:54<03:23,  3.98s/it]Processing time points:  50%|█████     | 50/100 [04:55<02:23,  2.87s/it]Processing time points:  51%|█████     | 51/100 [05:33<11:04, 13.56s/it]Processing time points:  52%|█████▏    | 52/100 [05:39<08:57, 11.21s/it]Processing time points:  53%|█████▎    | 53/100 [05:40<06:28,  8.27s/it]Processing time points:  54%|█████▍    | 54/100 [05:41<04:29,  5.86s/it]Processing time points:  55%|█████▌    | 55/100 [05:44<03:48,  5.08s/it]Processing time points:  57%|█████▋    | 57/100 [05:44<01:58,  2.76s/it]Processing time points:  58%|█████▊    | 58/100 [05:44<01:28,  2.11s/it]Processing time points:  59%|█████▉    | 59/100 [05:52<02:30,  3.66s/it]Processing time points:  60%|██████    | 60/100 [05:53<01:53,  2.84s/it]Processing time points:  61%|██████    | 61/100 [06:34<08:47, 13.52s/it]Processing time points:  62%|██████▏   | 62/100 [06:35<06:25, 10.14s/it]Processing time points:  63%|██████▎   | 63/100 [06:36<04:29,  7.29s/it]Processing time points:  65%|██████▌   | 65/100 [06:38<02:33,  4.39s/it]Processing time points:  66%|██████▌   | 66/100 [06:39<02:04,  3.65s/it]Processing time points:  67%|██████▋   | 67/100 [06:40<01:39,  3.02s/it]Processing time points:  68%|██████▊   | 68/100 [06:43<01:33,  2.93s/it]Processing time points:  69%|██████▉   | 69/100 [06:50<02:08,  4.14s/it]Processing time points:  71%|███████   | 71/100 [07:32<05:34, 11.54s/it]Processing time points:  72%|███████▏  | 72/100 [07:34<04:19,  9.27s/it]Processing time points:  73%|███████▎  | 73/100 [07:35<03:13,  7.18s/it]Processing time points:  74%|███████▍  | 74/100 [07:35<02:19,  5.35s/it]Processing time points:  75%|███████▌  | 75/100 [07:36<01:42,  4.09s/it]Processing time points:  76%|███████▌  | 76/100 [07:37<01:17,  3.24s/it]Processing time points:  78%|███████▊  | 78/100 [07:39<00:49,  2.23s/it]Processing time points:  79%|███████▉  | 79/100 [07:47<01:17,  3.70s/it]Processing time points:  80%|████████  | 80/100 [07:48<00:57,  2.86s/it]Processing time points:  81%|████████  | 81/100 [08:29<04:07, 13.00s/it]Processing time points:  82%|████████▏ | 82/100 [08:34<03:18, 11.00s/it]Processing time points:  83%|████████▎ | 83/100 [08:35<02:16,  8.03s/it]Processing time points:  84%|████████▍ | 84/100 [08:36<01:38,  6.18s/it]Processing time points:  86%|████████▌ | 86/100 [08:37<00:47,  3.42s/it]Processing time points:  87%|████████▋ | 87/100 [08:37<00:36,  2.79s/it]Processing time points:  88%|████████▊ | 88/100 [08:38<00:25,  2.16s/it]Processing time points:  89%|████████▉ | 89/100 [08:46<00:41,  3.73s/it]Processing time points:  90%|█████████ | 90/100 [08:46<00:28,  2.85s/it]Processing time points:  91%|█████████ | 91/100 [09:29<02:07, 14.21s/it]Processing time points:  92%|█████████▏| 92/100 [09:29<01:21, 10.17s/it]Processing time points:  93%|█████████▎| 93/100 [09:31<00:53,  7.59s/it]Processing time points:  94%|█████████▍| 94/100 [09:31<00:32,  5.42s/it]Processing time points:  95%|█████████▌| 95/100 [09:33<00:22,  4.41s/it]Processing time points:  96%|█████████▌| 96/100 [09:36<00:15,  3.91s/it]Processing time points:  97%|█████████▋| 97/100 [09:38<00:09,  3.33s/it]Processing time points:  98%|█████████▊| 98/100 [09:39<00:05,  2.82s/it]Processing time points:  99%|█████████▉| 99/100 [09:46<00:03,  3.95s/it]Processing time points: 100%|██████████| 100/100 [09:46<00:00,  2.81s/it]Processing time points: 100%|██████████| 100/100 [09:46<00:00,  5.86s/it]
+
+Processing batch starting at time point 0
+Completed 1/100 time points (Successful: 1)
+Completed 2/100 time points (Successful: 2)
+Completed 3/100 time points (Successful: 3)
+Completed 4/100 time points (Successful: 4)
+Completed 5/100 time points (Successful: 5)
+Completed 6/100 time points (Successful: 6)
+Completed 7/100 time points (Successful: 7)
+Completed 8/100 time points (Successful: 8)
+Completed 9/100 time points (Successful: 9)
+Completed 10/100 time points (Successful: 10)
+
+Processing batch starting at time point 20000000000
+Completed 11/100 time points (Successful: 11)
+Completed 12/100 time points (Successful: 12)
+Completed 13/100 time points (Successful: 13)
+Completed 14/100 time points (Successful: 14)
+Completed 15/100 time points (Successful: 15)
+Completed 16/100 time points (Successful: 16)
+Completed 17/100 time points (Successful: 17)
+Completed 18/100 time points (Successful: 18)
+Completed 19/100 time points (Successful: 19)
+Completed 20/100 time points (Successful: 20)
+
+Processing batch starting at time point 40000000000
+Completed 21/100 time points (Successful: 21)
+Completed 22/100 time points (Successful: 22)
+Completed 23/100 time points (Successful: 23)
+Completed 24/100 time points (Successful: 24)
+Completed 25/100 time points (Successful: 25)
+Completed 26/100 time points (Successful: 26)
+Completed 27/100 time points (Successful: 27)
+Completed 28/100 time points (Successful: 28)
+Completed 29/100 time points (Successful: 29)
+Completed 30/100 time points (Successful: 30)
+
+Processing batch starting at time point 60000000000
+Completed 31/100 time points (Successful: 31)
+Completed 32/100 time points (Successful: 32)
+Completed 33/100 time points (Successful: 33)
+Completed 34/100 time points (Successful: 34)
+Completed 35/100 time points (Successful: 35)
+Completed 36/100 time points (Successful: 36)
+Completed 37/100 time points (Successful: 37)
+Completed 38/100 time points (Successful: 38)
+Completed 39/100 time points (Successful: 39)
+Completed 40/100 time points (Successful: 40)
+
+Processing batch starting at time point 80000000000
+Completed 41/100 time points (Successful: 41)
+Completed 42/100 time points (Successful: 42)
+Completed 43/100 time points (Successful: 43)
+Completed 44/100 time points (Successful: 44)
+Completed 45/100 time points (Successful: 45)
+Completed 46/100 time points (Successful: 46)
+Completed 47/100 time points (Successful: 47)
+Completed 48/100 time points (Successful: 48)
+Completed 49/100 time points (Successful: 49)
+Completed 50/100 time points (Successful: 50)
+
+Processing batch starting at time point 100000000000
+Completed 51/100 time points (Successful: 51)
+Completed 52/100 time points (Successful: 52)
+Completed 53/100 time points (Successful: 53)
+Completed 54/100 time points (Successful: 54)
+Completed 55/100 time points (Successful: 55)
+Completed 56/100 time points (Successful: 56)
+Completed 57/100 time points (Successful: 57)
+Completed 58/100 time points (Successful: 58)
+Completed 59/100 time points (Successful: 59)
+Completed 60/100 time points (Successful: 60)
+
+Processing batch starting at time point 120000000000
+Completed 61/100 time points (Successful: 61)
+Completed 62/100 time points (Successful: 62)
+Completed 63/100 time points (Successful: 63)
+Completed 64/100 time points (Successful: 64)
+Completed 65/100 time points (Successful: 65)
+Completed 66/100 time points (Successful: 66)
+Completed 67/100 time points (Successful: 67)
+Completed 68/100 time points (Successful: 68)
+Completed 69/100 time points (Successful: 69)
+Completed 70/100 time points (Successful: 70)
+
+Processing batch starting at time point 140000000000
+Completed 71/100 time points (Successful: 71)
+Completed 72/100 time points (Successful: 72)
+Completed 73/100 time points (Successful: 73)
+Completed 74/100 time points (Successful: 74)
+Completed 75/100 time points (Successful: 75)
+Completed 76/100 time points (Successful: 76)
+Completed 77/100 time points (Successful: 77)
+Completed 78/100 time points (Successful: 78)
+Completed 79/100 time points (Successful: 79)
+Completed 80/100 time points (Successful: 80)
+
+Processing batch starting at time point 160000000000
+Completed 81/100 time points (Successful: 81)
+Completed 82/100 time points (Successful: 82)
+Completed 83/100 time points (Successful: 83)
+Completed 84/100 time points (Successful: 84)
+Completed 85/100 time points (Successful: 85)
+Completed 86/100 time points (Successful: 86)
+Completed 87/100 time points (Successful: 87)
+Completed 88/100 time points (Successful: 88)
+Completed 89/100 time points (Successful: 89)
+Completed 90/100 time points (Successful: 90)
+
+Processing batch starting at time point 180000000000
+Completed 91/100 time points (Successful: 91)
+Completed 92/100 time points (Successful: 92)
+Completed 93/100 time points (Successful: 93)
+Completed 94/100 time points (Successful: 94)
+Completed 95/100 time points (Successful: 95)
+Completed 96/100 time points (Successful: 96)
+Completed 97/100 time points (Successful: 97)
+Completed 98/100 time points (Successful: 98)
+Completed 99/100 time points (Successful: 99)
+Completed 100/100 time points (Successful: 100)
+
+Finished parallel processing
+Successfully processed 100/100 time points
+Metrics saved to ../paper/satgenpy_analysis/data/kuiper_630_isls_plus_grid_ground_stations_top_100_algorithm_free_one_only_over_isls/2000ms_for_200s/network_paths/path_metrics.csv, ../paper/satgenpy_analysis/data/kuiper_630_isls_plus_grid_ground_stations_top_100_algorithm_free_one_only_over_isls/2000ms_for_200s/network_paths/betweenness_metrics.csv
+Network analysis complete
