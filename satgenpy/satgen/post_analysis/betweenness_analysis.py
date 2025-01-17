@@ -24,6 +24,8 @@ import os
 import networkx as nx
 import pandas as pd
 
+import pickle
+
 
 class NetworkpathsEncoder(json.JSONEncoder):
     """Custom JSON encoder to handle NumPy types and network data"""
@@ -238,14 +240,14 @@ def analyse_gs_connectivity(G, t):
         print(f"Error in analyse_gs_connectivity: {str(e)}")
         return None
 
-def process_time_point(t, epoch, satellites, ground_stations, list_isls, max_gsl_length_m, max_isl_length_m, csv_paths, pickles_path):
+def process_time_point(t, epoch, satellites, ground_stations, list_isls, max_gsl_length_m, max_isl_length_m, csv_paths, pickles_path, network):
     try:
         path_csv_path, betweenness_csv_path = csv_paths
         
         # Construct graph
         graph = construct_graph_with_distances(
             epoch, t, satellites, ground_stations,
-            list_isls, max_gsl_length_m, max_isl_length_m
+            list_isls, max_gsl_length_m, max_isl_length_m, network
         )
 
         with open(f"{pickles_path}/{t}.pickle", "wb") as f:
@@ -278,6 +280,7 @@ def betweenness_analysis(
     print("Starting path analysis...")
     
     core_network_folder_name = satellite_network_dir.split("/")[-1]
+    print(f"core_network_folder_name: {core_network_folder_name}")
     base_output_dir = "%s/%s/%dms_for_%ds" % (
         output_data_dir, core_network_folder_name, dynamic_state_update_interval_ms, simulation_end_time_s
     )
@@ -301,6 +304,7 @@ def betweenness_analysis(
     paths_dir = os.path.join(base_output_dir, 'network_paths')
     path_csv_path, betweenness_csv_path = initialise_metrics_csv(paths_dir)
     pickles_path = os.path.join(base_output_dir, 'pickles')
+    os.makedirs(pickles_path, exist_ok=True)
 
     # Generate time points
     time_points = list(range(0, simulation_end_time_ns, dynamic_state_update_interval_ns))
@@ -338,7 +342,8 @@ def betweenness_analysis(
                         max_gsl_length_m, 
                         max_isl_length_m,
                         (path_csv_path, betweenness_csv_path),
-                        pickles_path
+                        pickles_path,
+                        core_network_folder_name
                     ): t for t in batch
                 }
                 

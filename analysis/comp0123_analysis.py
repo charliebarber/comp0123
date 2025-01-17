@@ -49,7 +49,7 @@ for constellation in [
     "telesat_1015"
 ]:
     for duration_s in [200]:
-        list_update_interval_ms = [2000]
+        list_update_interval_ms = [5000]
 
         # Properties
         # for update_interval_ms in list_update_interval_ms:
@@ -78,27 +78,37 @@ for constellation in [
         #     )
 
         # Betweenness
+        # for update_interval_ms in list_update_interval_ms:
+        #     commands_to_run.append(
+        #         "cd ../satgenpy; "
+        #         "python -m satgen.post_analysis.main_betweenness_analysis "
+        #         f"../analysis/data ../constellations/{constellation} {update_interval_ms} {duration_s}"
+        #         f" > ../analysis/data/command_logs/betweenness_{constellation}_{update_interval_ms}_{duration_s}"
+        #         "2>&1"
+        #     )
+
+        # Resilience metrics
         for update_interval_ms in list_update_interval_ms:
             commands_to_run.append(
-                "cd ../../satgenpy; "
-                "python -m satgen.post_analysis.main_betweenness_analysis "
-                f"../analysis/data ../constellations/{constellation}"
-                f"> ../analysis/data/command_logs/betweenness_{constellation}_{duration_s}_{update_interval_ms}"
+                "cd ../satgenpy; "
+                "python -m satgen.post_analysis.main_resilience_analysis "
+                f"../analysis/data ../constellations/{constellation} {update_interval_ms} {duration_s}"
+                f" > ../analysis/data/command_logs/betweenness_{constellation}_{update_interval_ms}_{duration_s}"
                 "2>&1"
             )
 
 print(commands_to_run)
 
 # Run the commands
-# print("Running commands (at most %d in parallel)..." % max_num_processes)
-# for i in range(len(commands_to_run)):
-#     print("Starting command %d out of %d: %s" % (i + 1, len(commands_to_run), commands_to_run[i]))
-#     local_shell.detached_exec(commands_to_run[i])
-#     while local_shell.count_screens() >= max_num_processes:
-#         time.sleep(2)
+print("Running commands (at most %d in parallel)..." % max_num_processes)
+for i in range(len(commands_to_run)):
+    print("Starting command %d out of %d: %s" % (i + 1, len(commands_to_run), commands_to_run[i]))
+    local_shell.detached_exec(commands_to_run[i])
+    while local_shell.count_screens() >= max_num_processes:
+        time.sleep(2)
 
-# # Awaiting final completion before exiting
-# print("Waiting completion of the last %d..." % max_num_processes)
-# while local_shell.count_screens() > 0:
-#     time.sleep(2)
-# print("Finished.")
+# Awaiting final completion before exiting
+print("Waiting completion of the last %d..." % max_num_processes)
+while local_shell.count_screens() > 0:
+    time.sleep(2)
+print("Finished.")

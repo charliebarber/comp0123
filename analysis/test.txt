@@ -1,0 +1,119 @@
+
+Processing kuiper_630...
+
+Analyzing Connectivity Percentage...
+
+Baseline Statistics for connectivity_percentage:
+  Mean: 99.92
+  Std:  0.40
+k= 25 - Mean:    99.88, Z-score:     0.10, Significant: False
+k= 50 - Mean:    99.75, Z-score:     0.41, Significant: False
+k= 75 - Mean:    99.67, Z-score:     0.62, Significant: False
+k=100 - Mean:    99.29, Z-score:     1.54, Significant: False
+k=125 - Mean:    98.72, Z-score:     2.97, Significant: True
+k=150 - Mean:    97.60, Z-score:     5.72, Significant: True
+k=175 - Mean:    96.62, Z-score:     8.16, Significant: True
+k=200 - Mean:    94.92, Z-score:    12.36, Significant: True
+k=225 - Mean:    92.93, Z-score:    17.29, Significant: True
+k=250 - Mean:    88.54, Z-score:    28.17, Significant: True
+Writing z-score analysis to: figs/kuiper_630/5000ms_for_200s/z_score_analysis_connectivity.txt
+
+Analyzing Average Path Length...
+
+Baseline Statistics for scaled_avg_shortest_path:
+  Mean: 10196.37
+  Std:  434.70
+k= 25 - Mean: 10431.92, Z-score:    -0.54, Significant: False
+k= 50 - Mean: 10575.57, Z-score:    -0.87, Significant: False
+k= 75 - Mean: 10759.51, Z-score:    -1.30, Significant: False
+k=100 - Mean: 11009.09, Z-score:    -1.87, Significant: False
+k=125 - Mean: 11287.45, Z-score:    -2.51, Significant: True
+k=150 - Mean: 11575.09, Z-score:    -3.17, Significant: True
+k=175 - Mean: 11911.21, Z-score:    -3.94, Significant: True
+k=200 - Mean: 12239.22, Z-score:    -4.70, Significant: True
+k=225 - Mean: 12722.30, Z-score:    -5.81, Significant: True
+k=250 - Mean: 13121.68, Z-score:    -6.73, Significant: True
+Writing z-score analysis to: figs/kuiper_630/5000ms_for_200s/z_score_analysis_path_length.txt
+
+Generating time series plots...
+Successfully processed kuiper_630
+
+Processing starlink_550...
+
+Analyzing Connectivity Percentage...
+
+Baseline Statistics for connectivity_percentage:
+  Mean: 100.00
+  Std:  0.00
+Note: Using small standard deviation (0.10) for z-score calculation
+k= 25 - Mean:   100.00, Z-score:     0.00, Significant: False
+k= 50 - Mean:   100.00, Z-score:     0.00, Significant: False
+k= 75 - Mean:   100.00, Z-score:     0.00, Significant: False
+k=100 - Mean:   100.00, Z-score:     0.00, Significant: False
+k=125 - Mean:   100.00, Z-score:     0.00, Significant: False
+k=150 - Mean:    99.75, Z-score:     2.49, Significant: True
+k=175 - Mean:    99.65, Z-score:     3.49, Significant: True
+k=200 - Mean:    99.45, Z-score:     5.49, Significant: True
+k=225 - Mean:    98.76, Z-score:    12.44, Significant: True
+k=250 - Mean:    98.11, Z-score:    18.88, Significant: True
+Writing z-score analysis to: figs/starlink_550/5000ms_for_200s/z_score_analysis_connectivity.txt
+
+Analyzing Average Path Length...
+
+Baseline Statistics for scaled_avg_shortest_path:
+  Mean: 10568.23
+  Std:  35.60
+k= 25 - Mean: 10669.93, Z-score:    -2.86, Significant: True
+k= 50 - Mean: 10769.79, Z-score:    -5.66, Significant: True
+k= 75 - Mean: 10886.52, Z-score:    -8.94, Significant: True
+k=100 - Mean: 11036.01, Z-score:   -13.14, Significant: True
+k=125 - Mean: 11206.66, Z-score:   -17.93, Significant: True
+k=150 - Mean: 11384.60, Z-score:   -22.93, Significant: True
+k=175 - Mean: 11601.53, Z-score:   -29.02, Significant: True
+k=200 - Mean: 11920.57, Z-score:   -37.98, Significant: True
+k=225 - Mean: 12224.93, Z-score:   -46.53, Significant: True
+k=250 - Mean: 12631.27, Z-score:   -57.95, Significant: True
+Writing z-score analysis to: figs/starlink_550/5000ms_for_200s/z_score_analysis_path_length.txt
+
+Generating time series plots...
+Successfully processed starlink_550
+
+Processing telesat_1015...
+
+Analyzing Connectivity Percentage...
+
+Baseline Statistics for connectivity_percentage:
+  Mean: 100.00
+  Std:  0.00
+Note: Using small standard deviation (0.10) for z-score calculation
+k= 25 - Mean:   100.00, Z-score:     0.00, Significant: False
+k= 50 - Mean:   100.00, Z-score:     0.00, Significant: False
+k= 75 - Mean:   100.00, Z-score:     0.00, Significant: False
+k=100 - Mean:   100.00, Z-score:     0.00, Significant: False
+k=125 - Mean:   100.00, Z-score:     0.00, Significant: False
+k=150 - Mean:   100.00, Z-score:     0.00, Significant: False
+k=175 - Mean:   100.00, Z-score:     0.00, Significant: False
+k=200 - Mean:   100.00, Z-score:     0.00, Significant: False
+k=225 - Mean:    99.71, Z-score:     2.90, Significant: True
+k=250 - Mean:    97.19, Z-score:    28.11, Significant: True
+Writing z-score analysis to: figs/telesat_1015/5000ms_for_200s/z_score_analysis_connectivity.txt
+
+Analyzing Average Path Length...
+
+Baseline Statistics for scaled_avg_shortest_path:
+  Mean: 9343.46
+  Std:  352.54
+k= 25 - Mean:  9543.58, Z-score:    -0.57, Significant: False
+k= 50 - Mean:  9644.79, Z-score:    -0.85, Significant: False
+k= 75 - Mean:  9748.87, Z-score:    -1.15, Significant: False
+k=100 - Mean:  9948.25, Z-score:    -1.72, Significant: False
+k=125 - Mean: 10172.00, Z-score:    -2.35, Significant: True
+k=150 - Mean: 10440.37, Z-score:    -3.11, Significant: True
+k=175 - Mean: 10822.00, Z-score:    -4.19, Significant: True
+k=200 - Mean: 11479.66, Z-score:    -6.06, Significant: True
+k=225 - Mean: 12381.41, Z-score:    -8.62, Significant: True
+k=250 - Mean: 14261.53, Z-score:   -13.95, Significant: True
+Writing z-score analysis to: figs/telesat_1015/5000ms_for_200s/z_score_analysis_path_length.txt
+
+Generating time series plots...
+Successfully processed telesat_1015

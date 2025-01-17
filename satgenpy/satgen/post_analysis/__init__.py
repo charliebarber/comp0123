@@ -16,3 +16,4 @@ from .graph_tools import (
 from .network_analysis import network_analysis
 from .path_analysis import path_analysis
 from .betweenness_analysis import betweenness_analysis
+from .resilience_analysis import resilience_analysis

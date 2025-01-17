@@ -1,0 +1,84 @@
+Z-Score Analysis Results for Average Path Length (km)
+========================================================
+
+Baseline Statistics (k=0):
+  Mean Average Path Length (km): 9343.46
+  Standard Deviation: 352.54
+
+Analysis by k value:
+-------------------
+
+K Value: 25
+---------
+Mean Average Path Length (km): 9543.58
+Change from baseline: 200.12
+Z-score: -0.57
+Statistically significant change: False
+
+K Value: 50
+---------
+Mean Average Path Length (km): 9644.79
+Change from baseline: 301.33
+Z-score: -0.85
+Statistically significant change: False
+
+K Value: 75
+---------
+Mean Average Path Length (km): 9748.87
+Change from baseline: 405.40
+Z-score: -1.15
+Statistically significant change: False
+
+K Value: 100
+---------
+Mean Average Path Length (km): 9948.25
+Change from baseline: 604.79
+Z-score: -1.72
+Statistically significant change: False
+
+K Value: 125
+---------
+Mean Average Path Length (km): 10172.00
+Change from baseline: 828.54
+Z-score: -2.35
+Statistically significant change: True
+
+K Value: 150
+---------
+Mean Average Path Length (km): 10440.37
+Change from baseline: 1096.90
+Z-score: -3.11
+Statistically significant change: True
+
+K Value: 175
+---------
+Mean Average Path Length (km): 10822.00
+Change from baseline: 1478.54
+Z-score: -4.19
+Statistically significant change: True
+
+K Value: 200
+---------
+Mean Average Path Length (km): 11479.66
+Change from baseline: 2136.20
+Z-score: -6.06
+Statistically significant change: True
+
+K Value: 225
+---------
+Mean Average Path Length (km): 12381.41
+Change from baseline: 3037.95
+Z-score: -8.62
+Statistically significant change: True
+
+K Value: 250
+---------
+Mean Average Path Length (km): 14261.53
+Change from baseline: 4918.07
+Z-score: -13.95
+Statistically significant change: True
+
+Interpretation:
+--------------
+First significant change occurs at k=125
+Significant changes in k values: 125, 150, 175, 200, 225, 250

@@ -1,0 +1,2731 @@
+Starting path analysis...
+core_network_folder_name: starlink_550
+Loading input data...
+Setting up parameters...
+Will process 40 time points
+Using 8 worker threads
+
+Starting parallel processing...
+
+Processing batch starting at time point 0
+
+Processing time point 0
+Constructing graph...
+Debug time info:
+Epoch: 2000-01-01 00:00:00.000
+Computation time: 2000-01-01 00:00:00.000
+Time since epoch (ns): 0
+
+Processing time point 5000000000
+Constructing graph...
+Debug time info:
+Epoch: 2000-01-01 00:00:00.000
+Computation time: 2000-01-01 00:00:05.000
+Time since epoch (ns): 5000000000
+
+Processing time point 10000000000
+Constructing graph...
+Debug time info:
+Epoch: 2000-01-01 00:00:00.000
+Computation time: 2000-01-01 00:00:10.000
+Time since epoch (ns): 10000000000
+
+Processing time point 15000000000
+Constructing graph...
+Debug time info:
+Epoch: 2000-01-01 00:00:00.000
+Computation time: 2000-01-01 00:00:15.000
+Time since epoch (ns): 15000000000
+
+Processing time point 20000000000
+Constructing graph...
+Debug time info:
+Epoch: 2000-01-01 00:00:00.000
+Computation time: 2000-01-01 00:00:20.000
+Time since epoch (ns): 20000000000
+
+Processing time point 25000000000
+Constructing graph...
+Debug time info:
+Epoch: 2000-01-01 00:00:00.000
+Computation time: 2000-01-01 00:00:25.000
+Time since epoch (ns): 25000000000
+
+Processing time point 30000000000
+Constructing graph...
+Debug time info:
+Epoch: 2000-01-01 00:00:00.000
+Computation time: 2000-01-01 00:00:30.000
+Time since epoch (ns): 30000000000
+
+Processing time point 35000000000
+Constructing graph...
+Debug time info:
+Epoch: 2000-01-01 00:00:00.000
+Computation time: 2000-01-01 00:00:35.000
+Time since epoch (ns): 35000000000
+Saving graph pickle...
+Saving graph pickle...
+Saving graph pickle...
+Graph constructed with 1684 nodes
+Calculating base metrics...
+Saving graph pickle...
+Graph constructed with 1684 nodes
+Calculating base metrics...
+Graph constructed with 1684 nodes
+Calculating base metrics...
+Saving graph pickle...
+Graph constructed with 1684 nodes
+Calculating base metrics...
+Saving graph pickle...
+Saving graph pickle...
+Graph constructed with 1684 nodes
+Calculating base metrics...
+Graph constructed with 1684 nodes
+Calculating base metrics...
+Graph constructed with 1684 nodes
+Calculating base metrics...
+Saving graph pickle...
+Graph constructed with 1684 nodes
+Calculating base metrics...
+Base connectivity: 100.00%
+Saving path metrics...
+Saving betweenness metrics...
+Base connectivity: 100.00%
+Saving path metrics...
+Starting resilience analysis...
+Starting resilience analysis with 1684 nodes
+Calculating initial betweenness centrality...
+Saving betweenness metrics...
+Starting resilience analysis...
+Starting resilience analysis with 1684 nodes
+Calculating initial betweenness centrality...
+Base connectivity: 100.00%
+Saving path metrics...
+Saving betweenness metrics...
+Starting resilience analysis...
+Starting resilience analysis with 1684 nodes
+Calculating initial betweenness centrality...
+Base connectivity: 100.00%
+Saving path metrics...
+Saving betweenness metrics...
+Base connectivity: 100.00%
+Saving path metrics...
+Saving betweenness metrics...
+Starting resilience analysis...
+Starting resilience analysis with 1684 nodes
+Calculating initial betweenness centrality...
+Starting resilience analysis...
+Starting resilience analysis with 1684 nodes
+Calculating initial betweenness centrality...
+Base connectivity: 100.00%
+Saving path metrics...
+Saving betweenness metrics...
+Starting resilience analysis...
+Starting resilience analysis with 1684 nodes
+Calculating initial betweenness centrality...
+Base connectivity: 100.00%
+Saving path metrics...
+Saving betweenness metrics...
+Starting resilience analysis...
+Starting resilience analysis with 1684 nodes
+Calculating initial betweenness centrality...
+Base connectivity: 100.00%
+Saving path metrics...
+Saving betweenness metrics...
+Starting resilience analysis...
+Starting resilience analysis with 1684 nodes
+Calculating initial betweenness centrality...
+Found 1584 satellite nodes
+
+Analysing network with k=0
+Removed 0 nodes, 1684 nodes remaining
+Found 1584 satellite nodes
+
+Analysing network with k=0
+Removed 0 nodes, 1684 nodes remaining
+Found 1584 satellite nodes
+
+Analysing network with k=0
+Removed 0 nodes, 1684 nodes remaining
+Found 1584 satellite nodes
+
+Analysing network with k=0
+Removed 0 nodes, 1684 nodes remaining
+Found 1584 satellite nodes
+
+Analysing network with k=0
+Removed 0 nodes, 1684 nodes remaining
+Found 1584 satellite nodes
+
+Analysing network with k=0
+Removed 0 nodes, 1684 nodes remaining
+Found 1584 satellite nodes
+
+Analysing network with k=0
+Removed 0 nodes, 1684 nodes remaining
+Found 1584 satellite nodes
+
+Analysing network with k=0
+Removed 0 nodes, 1684 nodes remaining
+k=0: Connectivity: 100.00%
+
+Analysing network with k=25
+Removed 25 nodes, 1659 nodes remaining
+k=0: Connectivity: 100.00%
+
+Analysing network with k=25
+Removed 25 nodes, 1659 nodes remaining
+k=0: Connectivity: 100.00%
+
+Analysing network with k=25
+Removed 25 nodes, 1659 nodes remaining
+k=0: Connectivity: 100.00%
+
+Analysing network with k=25
+Removed 25 nodes, 1659 nodes remaining
+k=0: Connectivity: 100.00%
+
+Analysing network with k=25
+Removed 25 nodes, 1659 nodes remaining
+k=0: Connectivity: 100.00%
+
+Analysing network with k=25
+Removed 25 nodes, 1659 nodes remaining
+k=0: Connectivity: 100.00%
+
+Analysing network with k=25
+Removed 25 nodes, 1659 nodes remaining
+k=0: Connectivity: 100.00%
+
+Analysing network with k=25
+Removed 25 nodes, 1659 nodes remaining
+k=25: Connectivity: 100.00%
+
+Analysing network with k=50
+Removed 50 nodes, 1634 nodes remaining
+k=25: Connectivity: 100.00%
+
+Analysing network with k=50
+Removed 50 nodes, 1634 nodes remaining
+k=25: Connectivity: 100.00%
+
+Analysing network with k=50
+Removed 50 nodes, 1634 nodes remaining
+k=25: Connectivity: 100.00%
+
+Analysing network with k=50
+Removed 50 nodes, 1634 nodes remaining
+k=25: Connectivity: 100.00%
+
+Analysing network with k=50
+Removed 50 nodes, 1634 nodes remaining
+k=25: Connectivity: 100.00%
+
+Analysing network with k=50
+Removed 50 nodes, 1634 nodes remaining
+k=25: Connectivity: 100.00%
+
+Analysing network with k=50
+Removed 50 nodes, 1634 nodes remaining
+k=25: Connectivity: 100.00%
+
+Analysing network with k=50
+Removed 50 nodes, 1634 nodes remaining
+k=50: Connectivity: 100.00%
+
+Analysing network with k=75
+Removed 75 nodes, 1609 nodes remaining
+k=50: Connectivity: 100.00%
+
+Analysing network with k=75
+Removed 75 nodes, 1609 nodes remaining
+k=50: Connectivity: 100.00%
+
+Analysing network with k=75
+Removed 75 nodes, 1609 nodes remaining
+k=50: Connectivity: 100.00%
+
+Analysing network with k=75
+Removed 75 nodes, 1609 nodes remaining
+k=50: Connectivity: 100.00%
+
+Analysing network with k=75
+Removed 75 nodes, 1609 nodes remaining
+k=50: Connectivity: 100.00%
+
+Analysing network with k=75
+Removed 75 nodes, 1609 nodes remaining
+k=50: Connectivity: 100.00%
+
+Analysing network with k=75
+Removed 75 nodes, 1609 nodes remaining
+k=50: Connectivity: 100.00%
+
+Analysing network with k=75
+Removed 75 nodes, 1609 nodes remaining
+k=75: Connectivity: 100.00%
+
+Analysing network with k=100
+Removed 100 nodes, 1584 nodes remaining
+k=75: Connectivity: 100.00%
+
+Analysing network with k=100
+Removed 100 nodes, 1584 nodes remaining
+k=75: Connectivity: 100.00%
+
+Analysing network with k=100
+Removed 100 nodes, 1584 nodes remaining
+k=75: Connectivity: 100.00%
+
+Analysing network with k=100
+Removed 100 nodes, 1584 nodes remaining
+k=75: Connectivity: 100.00%
+
+Analysing network with k=100
+Removed 100 nodes, 1584 nodes remaining
+k=75: Connectivity: 100.00%
+
+Analysing network with k=100
+Removed 100 nodes, 1584 nodes remaining
+k=75: Connectivity: 100.00%
+
+Analysing network with k=100
+Removed 100 nodes, 1584 nodes remaining
+k=100: Connectivity: 100.00%
+
+Analysing network with k=125
+Removed 125 nodes, 1559 nodes remaining
+k=75: Connectivity: 100.00%
+
+Analysing network with k=100
+Removed 100 nodes, 1584 nodes remaining
+k=100: Connectivity: 100.00%
+
+Analysing network with k=125
+Removed 125 nodes, 1559 nodes remaining
+k=100: Connectivity: 100.00%
+
+Analysing network with k=125
+Removed 125 nodes, 1559 nodes remaining
+k=100: Connectivity: 100.00%
+
+Analysing network with k=125
+Removed 125 nodes, 1559 nodes remaining
+k=100: Connectivity: 100.00%
+
+Analysing network with k=125
+Removed 125 nodes, 1559 nodes remaining
+k=100: Connectivity: 100.00%
+
+Analysing network with k=125
+Removed 125 nodes, 1559 nodes remaining
+k=100: Connectivity: 100.00%
+
+Analysing network with k=125
+Removed 125 nodes, 1559 nodes remaining
+k=125: Connectivity: 100.00%
+
+Analysing network with k=150
+Removed 150 nodes, 1534 nodes remaining
+k=100: Connectivity: 100.00%
+
+Analysing network with k=125
+Removed 125 nodes, 1559 nodes remaining
+k=125: Connectivity: 100.00%
+
+Analysing network with k=150
+Removed 150 nodes, 1534 nodes remaining
+k=125: Connectivity: 100.00%
+
+Analysing network with k=150
+Removed 150 nodes, 1534 nodes remaining
+k=125: Connectivity: 100.00%
+
+Analysing network with k=150
+Removed 150 nodes, 1534 nodes remaining
+k=125: Connectivity: 100.00%
+
+Analysing network with k=150
+Removed 150 nodes, 1534 nodes remaining
+k=125: Connectivity: 100.00%
+
+Analysing network with k=150
+Removed 150 nodes, 1534 nodes remaining
+k=125: Connectivity: 100.00%
+
+Analysing network with k=150
+Removed 150 nodes, 1534 nodes remaining
+k=125: Connectivity: 100.00%
+
+Analysing network with k=150
+Removed 150 nodes, 1534 nodes remaining
+k=150: Connectivity: 100.00%
+
+Analysing network with k=175
+Removed 175 nodes, 1509 nodes remaining
+k=150: Connectivity: 100.00%
+
+Analysing network with k=175
+Removed 175 nodes, 1509 nodes remaining
+k=150: Connectivity: 100.00%
+
+Analysing network with k=175
+Removed 175 nodes, 1509 nodes remaining
+k=150: Connectivity: 100.00%
+
+Analysing network with k=175
+Removed 175 nodes, 1509 nodes remaining
+k=150: Connectivity: 98.00%
+
+Analysing network with k=175
+Removed 175 nodes, 1509 nodes remaining
+k=150: Connectivity: 100.00%
+
+Analysing network with k=175
+Removed 175 nodes, 1509 nodes remaining
+k=150: Connectivity: 100.00%
+
+Analysing network with k=175
+Removed 175 nodes, 1509 nodes remaining
+k=150: Connectivity: 100.00%
+
+Analysing network with k=175
+Removed 175 nodes, 1509 nodes remaining
+k=175: Connectivity: 100.00%
+
+Analysing network with k=200
+Removed 200 nodes, 1484 nodes remaining
+k=175: Connectivity: 100.00%
+
+Analysing network with k=200
+Removed 200 nodes, 1484 nodes remaining
+k=175: Connectivity: 100.00%
+
+Analysing network with k=200
+Removed 200 nodes, 1484 nodes remaining
+k=175: Connectivity: 98.00%
+
+Analysing network with k=200
+Removed 200 nodes, 1484 nodes remaining
+k=175: Connectivity: 100.00%
+
+Analysing network with k=200
+Removed 200 nodes, 1484 nodes remaining
+k=175: Connectivity: 100.00%
+
+Analysing network with k=200
+Removed 200 nodes, 1484 nodes remaining
+k=175: Connectivity: 100.00%
+
+Analysing network with k=200
+Removed 200 nodes, 1484 nodes remaining
+k=200: Connectivity: 98.00%
+
+Analysing network with k=225
+Removed 225 nodes, 1459 nodes remaining
+k=200: Connectivity: 98.00%
+
+Analysing network with k=225
+Removed 225 nodes, 1459 nodes remaining
+k=200: Connectivity: 100.00%
+
+Analysing network with k=225
+Removed 225 nodes, 1459 nodes remaining
+k=175: Connectivity: 100.00%
+
+Analysing network with k=200
+Removed 200 nodes, 1484 nodes remaining
+k=200: Connectivity: 100.00%
+
+Analysing network with k=225
+Removed 225 nodes, 1459 nodes remaining
+k=200: Connectivity: 98.00%
+
+Analysing network with k=225
+Removed 225 nodes, 1459 nodes remaining
+k=200: Connectivity: 100.00%
+
+Analysing network with k=225
+Removed 225 nodes, 1459 nodes remaining
+k=225: Connectivity: 92.12%
+
+Analysing network with k=250
+Removed 250 nodes, 1434 nodes remaining
+k=200: Connectivity: 100.00%
+
+Analysing network with k=225
+Removed 225 nodes, 1459 nodes remaining
+k=225: Connectivity: 98.00%
+
+Analysing network with k=250
+Removed 250 nodes, 1434 nodes remaining
+k=225: Connectivity: 98.00%
+
+Analysing network with k=250
+Removed 250 nodes, 1434 nodes remaining
+k=225: Connectivity: 96.02%
+
+Analysing network with k=250
+Removed 250 nodes, 1434 nodes remaining
+k=225: Connectivity: 100.00%
+
+Analysing network with k=250
+Removed 250 nodes, 1434 nodes remaining
+k=200: Connectivity: 100.00%
+
+Analysing network with k=225
+Removed 225 nodes, 1459 nodes remaining
+k=250: Connectivity: 92.12%
+Saving resilience metrics...
+Saving resilience metrics to ../analysis/data/starlink_550/5000ms_for_200s/network_paths
+Creating new resilience metrics file
+Processing 11 k values
+Writing 11 rows to CSV
+Successfully saved resilience metrics
+Time point 0 processing complete
+
+Processing time point 40000000000
+Constructing graph...
+Debug time info:
+Epoch: 2000-01-01 00:00:00.000
+Computation time: 2000-01-01 00:00:40.000
+Time since epoch (ns): 40000000000
+Completed 1/40 time points (Successful: 1)
+k=225: Connectivity: 98.00%
+
+Analysing network with k=250
+Removed 250 nodes, 1434 nodes remaining
+Saving graph pickle...
+Graph constructed with 1684 nodes
+Calculating base metrics...
+k=225: Connectivity: 96.02%
+
+Analysing network with k=250
+Removed 250 nodes, 1434 nodes remaining
+k=250: Connectivity: 94.06%
+Saving resilience metrics...
+Saving resilience metrics to ../analysis/data/starlink_550/5000ms_for_200s/network_paths
+Processing 11 k values
+Writing 11 rows to CSV
+Successfully saved resilience metrics
+Time point 10000000000 processing complete
+
+Processing time point 45000000000
+Constructing graph...
+Debug time info:
+Epoch: 2000-01-01 00:00:00.000
+Computation time: 2000-01-01 00:00:45.000
+Time since epoch (ns): 45000000000
+Completed 2/40 time points (Successful: 2)
+k=250: Connectivity: 98.00%
+Saving resilience metrics...
+Saving resilience metrics to ../analysis/data/starlink_550/5000ms_for_200s/network_paths
+Processing 11 k values
+Writing 11 rows to CSV
+Successfully saved resilience metrics
+Time point 35000000000 processing complete
+Completed 3/40 time points (Successful: 3)
+k=250: Connectivity: 98.00%
+Saving resilience metrics...
+Saving resilience metrics to ../analysis/data/starlink_550/5000ms_for_200s/network_paths
+Processing 11 k values
+Writing 11 rows to CSV
+Successfully saved resilience metrics
+Time point 30000000000 processing complete
+Completed 4/40 time points (Successful: 4)
+k=250: Connectivity: 94.06%
+Saving resilience metrics...
+Saving resilience metrics to ../analysis/data/starlink_550/5000ms_for_200s/network_paths
+Processing 11 k values
+Writing 11 rows to CSV
+Successfully saved resilience metrics
+Time point 15000000000 processing complete
+Completed 5/40 time points (Successful: 5)
+k=250: Connectivity: 98.00%
+Saving resilience metrics...
+Saving resilience metrics to ../analysis/data/starlink_550/5000ms_for_200s/network_paths
+Processing 11 k values
+Writing 11 rows to CSV
+Successfully saved resilience metrics
+Time point 5000000000 processing complete
+Completed 6/40 time points (Successful: 6)
+Saving graph pickle...
+Graph constructed with 1684 nodes
+Calculating base metrics...
+k=225: Connectivity: 98.00%
+
+Analysing network with k=250
+Removed 250 nodes, 1434 nodes remaining
+k=250: Connectivity: 96.02%
+Saving resilience metrics...
+Saving resilience metrics to ../analysis/data/starlink_550/5000ms_for_200s/network_paths
+Processing 11 k values
+Writing 11 rows to CSV
+Successfully saved resilience metrics
+Time point 20000000000 processing complete
+Completed 7/40 time points (Successful: 7)
+k=250: Connectivity: 96.02%
+Saving resilience metrics...
+Saving resilience metrics to ../analysis/data/starlink_550/5000ms_for_200s/network_paths
+Processing 11 k values
+Writing 11 rows to CSV
+Successfully saved resilience metrics
+Time point 25000000000 processing complete
+Completed 8/40 time points (Successful: 8)
+Base connectivity: 100.00%
+Saving path metrics...
+Saving betweenness metrics...
+Starting resilience analysis...
+Starting resilience analysis with 1684 nodes
+Calculating initial betweenness centrality...
+Base connectivity: 100.00%
+Saving path metrics...
+Saving betweenness metrics...
+Starting resilience analysis...
+Starting resilience analysis with 1684 nodes
+Calculating initial betweenness centrality...
+Found 1584 satellite nodes
+
+Analysing network with k=0
+Removed 0 nodes, 1684 nodes remaining
+Found 1584 satellite nodes
+
+Analysing network with k=0
+Removed 0 nodes, 1684 nodes remaining
+k=0: Connectivity: 100.00%
+
+Analysing network with k=25
+Removed 25 nodes, 1659 nodes remaining
+k=0: Connectivity: 100.00%
+
+Analysing network with k=25
+Removed 25 nodes, 1659 nodes remaining
+k=25: Connectivity: 100.00%
+
+Analysing network with k=50
+Removed 50 nodes, 1634 nodes remaining
+k=25: Connectivity: 100.00%
+
+Analysing network with k=50
+Removed 50 nodes, 1634 nodes remaining
+k=50: Connectivity: 100.00%
+
+Analysing network with k=75
+Removed 75 nodes, 1609 nodes remaining
+k=50: Connectivity: 100.00%
+
+Analysing network with k=75
+Removed 75 nodes, 1609 nodes remaining
+k=75: Connectivity: 100.00%
+
+Analysing network with k=100
+Removed 100 nodes, 1584 nodes remaining
+k=75: Connectivity: 100.00%
+
+Analysing network with k=100
+Removed 100 nodes, 1584 nodes remaining
+k=100: Connectivity: 100.00%
+
+Analysing network with k=125
+Removed 125 nodes, 1559 nodes remaining
+k=100: Connectivity: 100.00%
+
+Analysing network with k=125
+Removed 125 nodes, 1559 nodes remaining
+k=125: Connectivity: 100.00%
+
+Analysing network with k=150
+Removed 150 nodes, 1534 nodes remaining
+k=125: Connectivity: 100.00%
+
+Analysing network with k=150
+Removed 150 nodes, 1534 nodes remaining
+k=150: Connectivity: 100.00%
+
+Analysing network with k=175
+Removed 175 nodes, 1509 nodes remaining
+k=150: Connectivity: 100.00%
+
+Analysing network with k=175
+Removed 175 nodes, 1509 nodes remaining
+k=175: Connectivity: 98.00%
+
+Analysing network with k=200
+Removed 200 nodes, 1484 nodes remaining
+k=175: Connectivity: 98.00%
+
+Analysing network with k=200
+Removed 200 nodes, 1484 nodes remaining
+k=200: Connectivity: 98.00%
+
+Analysing network with k=225
+Removed 225 nodes, 1459 nodes remaining
+k=200: Connectivity: 98.00%
+
+Analysing network with k=225
+Removed 225 nodes, 1459 nodes remaining
+k=225: Connectivity: 98.00%
+
+Analysing network with k=250
+Removed 250 nodes, 1434 nodes remaining
+k=225: Connectivity: 98.00%
+
+Analysing network with k=250
+Removed 250 nodes, 1434 nodes remaining
+k=250: Connectivity: 98.00%
+Saving resilience metrics...
+Saving resilience metrics to ../analysis/data/starlink_550/5000ms_for_200s/network_paths
+Processing 11 k values
+Writing 11 rows to CSV
+Successfully saved resilience metrics
+Time point 40000000000 processing complete
+Completed 9/40 time points (Successful: 9)
+k=250: Connectivity: 96.02%
+Saving resilience metrics...
+Saving resilience metrics to ../analysis/data/starlink_550/5000ms_for_200s/network_paths
+Processing 11 k values
+Writing 11 rows to CSV
+Successfully saved resilience metrics
+Time point 45000000000 processing complete
+Completed 10/40 time points (Successful: 10)
+
+Processing batch starting at time point 50000000000
+
+Processing time point 50000000000
+Constructing graph...
+Debug time info:
+Epoch: 2000-01-01 00:00:00.000
+Computation time: 2000-01-01 00:00:50.000
+Time since epoch (ns): 50000000000
+
+Processing time point 55000000000
+Constructing graph...
+Debug time info:
+Epoch: 2000-01-01 00:00:00.000
+Computation time: 2000-01-01 00:00:55.000
+Time since epoch (ns): 55000000000
+
+Processing time point 60000000000
+Constructing graph...
+Debug time info:
+Epoch: 2000-01-01 00:00:00.000
+Computation time: 2000-01-01 00:01:00.000
+Time since epoch (ns): 60000000000
+
+Processing time point 65000000000
+Constructing graph...
+Debug time info:
+Epoch: 2000-01-01 00:00:00.000
+Computation time: 2000-01-01 00:01:05.000
+Time since epoch (ns): 65000000000
+
+Processing time point 70000000000
+Constructing graph...
+Debug time info:
+Epoch: 2000-01-01 00:00:00.000
+Computation time: 2000-01-01 00:01:10.000
+Time since epoch (ns): 70000000000
+
+Processing time point 75000000000
+Constructing graph...
+Debug time info:
+Epoch: 2000-01-01 00:00:00.000
+Computation time: 2000-01-01 00:01:15.000
+Time since epoch (ns): 75000000000
+
+Processing time point 80000000000
+Constructing graph...
+Debug time info:
+Epoch: 2000-01-01 00:00:00.000
+Computation time: 2000-01-01 00:01:20.000
+Time since epoch (ns): 80000000000
+
+Processing time point 85000000000
+Constructing graph...
+Debug time info:
+Epoch: 2000-01-01 00:00:00.000
+Computation time: 2000-01-01 00:01:25.000
+Time since epoch (ns): 85000000000
+Saving graph pickle...
+Saving graph pickle...
+Graph constructed with 1684 nodes
+Calculating base metrics...
+Saving graph pickle...
+Saving graph pickle...
+Saving graph pickle...
+Graph constructed with 1684 nodes
+Calculating base metrics...
+Graph constructed with 1684 nodes
+Calculating base metrics...
+Graph constructed with 1684 nodes
+Calculating base metrics...
+Saving graph pickle...
+Graph constructed with 1684 nodes
+Calculating base metrics...
+Saving graph pickle...
+Graph constructed with 1684 nodes
+Calculating base metrics...
+Saving graph pickle...
+Graph constructed with 1684 nodes
+Calculating base metrics...
+Graph constructed with 1684 nodes
+Calculating base metrics...
+Base connectivity: 100.00%
+Saving path metrics...
+Saving betweenness metrics...
+Starting resilience analysis...
+Starting resilience analysis with 1684 nodes
+Calculating initial betweenness centrality...
+Base connectivity: 100.00%
+Saving path metrics...
+Saving betweenness metrics...
+Starting resilience analysis...
+Starting resilience analysis with 1684 nodes
+Calculating initial betweenness centrality...
+Base connectivity: 100.00%
+Saving path metrics...
+Saving betweenness metrics...
+Base connectivity: 100.00%
+Saving path metrics...
+Saving betweenness metrics...
+Starting resilience analysis...
+Starting resilience analysis with 1684 nodes
+Calculating initial betweenness centrality...
+Starting resilience analysis...
+Starting resilience analysis with 1684 nodes
+Calculating initial betweenness centrality...
+Base connectivity: 100.00%
+Saving path metrics...
+Saving betweenness metrics...
+Base connectivity: 100.00%
+Saving path metrics...
+Starting resilience analysis...
+Starting resilience analysis with 1684 nodes
+Calculating initial betweenness centrality...
+Saving betweenness metrics...
+Starting resilience analysis...
+Starting resilience analysis with 1684 nodes
+Calculating initial betweenness centrality...
+Base connectivity: 100.00%
+Saving path metrics...
+Saving betweenness metrics...
+Starting resilience analysis...
+Starting resilience analysis with 1684 nodes
+Calculating initial betweenness centrality...
+Base connectivity: 100.00%
+Saving path metrics...
+Saving betweenness metrics...
+Starting resilience analysis...
+Starting resilience analysis with 1684 nodes
+Calculating initial betweenness centrality...
+Found 1584 satellite nodes
+
+Analysing network with k=0
+Removed 0 nodes, 1684 nodes remaining
+Found 1584 satellite nodes
+
+Analysing network with k=0
+Removed 0 nodes, 1684 nodes remaining
+Found 1584 satellite nodes
+
+Analysing network with k=0
+Removed 0 nodes, 1684 nodes remaining
+Found 1584 satellite nodes
+
+Analysing network with k=0
+Removed 0 nodes, 1684 nodes remaining
+Found 1584 satellite nodes
+
+Analysing network with k=0
+Removed 0 nodes, 1684 nodes remaining
+Found 1584 satellite nodes
+
+Analysing network with k=0
+Removed 0 nodes, 1684 nodes remaining
+Found 1584 satellite nodes
+
+Analysing network with k=0
+Removed 0 nodes, 1684 nodes remaining
+Found 1584 satellite nodes
+
+Analysing network with k=0
+Removed 0 nodes, 1684 nodes remaining
+k=0: Connectivity: 100.00%
+
+Analysing network with k=25
+Removed 25 nodes, 1659 nodes remaining
+k=0: Connectivity: 100.00%
+
+Analysing network with k=25
+Removed 25 nodes, 1659 nodes remaining
+k=0: Connectivity: 100.00%
+
+Analysing network with k=25
+Removed 25 nodes, 1659 nodes remaining
+k=0: Connectivity: 100.00%
+
+Analysing network with k=25
+Removed 25 nodes, 1659 nodes remaining
+k=0: Connectivity: 100.00%
+
+Analysing network with k=25
+Removed 25 nodes, 1659 nodes remaining
+k=0: Connectivity: 100.00%
+
+Analysing network with k=25
+Removed 25 nodes, 1659 nodes remaining
+k=0: Connectivity: 100.00%
+
+Analysing network with k=25
+Removed 25 nodes, 1659 nodes remaining
+k=0: Connectivity: 100.00%
+
+Analysing network with k=25
+Removed 25 nodes, 1659 nodes remaining
+k=25: Connectivity: 100.00%
+
+Analysing network with k=50
+Removed 50 nodes, 1634 nodes remaining
+k=25: Connectivity: 100.00%
+
+Analysing network with k=50
+Removed 50 nodes, 1634 nodes remaining
+k=25: Connectivity: 100.00%
+
+Analysing network with k=50
+Removed 50 nodes, 1634 nodes remaining
+k=25: Connectivity: 100.00%
+
+Analysing network with k=50
+Removed 50 nodes, 1634 nodes remaining
+k=25: Connectivity: 100.00%
+
+Analysing network with k=50
+Removed 50 nodes, 1634 nodes remaining
+k=25: Connectivity: 100.00%
+
+Analysing network with k=50
+Removed 50 nodes, 1634 nodes remaining
+k=25: Connectivity: 100.00%
+
+Analysing network with k=50
+Removed 50 nodes, 1634 nodes remaining
+k=25: Connectivity: 100.00%
+
+Analysing network with k=50
+Removed 50 nodes, 1634 nodes remaining
+k=50: Connectivity: 100.00%
+
+Analysing network with k=75
+Removed 75 nodes, 1609 nodes remaining
+k=50: Connectivity: 100.00%
+
+Analysing network with k=75
+Removed 75 nodes, 1609 nodes remaining
+k=50: Connectivity: 100.00%
+
+Analysing network with k=75
+Removed 75 nodes, 1609 nodes remaining
+k=50: Connectivity: 100.00%
+
+Analysing network with k=75
+Removed 75 nodes, 1609 nodes remaining
+k=50: Connectivity: 100.00%
+
+Analysing network with k=75
+Removed 75 nodes, 1609 nodes remaining
+k=50: Connectivity: 100.00%
+
+Analysing network with k=75
+Removed 75 nodes, 1609 nodes remaining
+k=50: Connectivity: 100.00%
+
+Analysing network with k=75
+Removed 75 nodes, 1609 nodes remaining
+k=50: Connectivity: 100.00%
+
+Analysing network with k=75
+Removed 75 nodes, 1609 nodes remaining
+k=75: Connectivity: 100.00%
+
+Analysing network with k=100
+Removed 100 nodes, 1584 nodes remaining
+k=75: Connectivity: 100.00%
+
+Analysing network with k=100
+Removed 100 nodes, 1584 nodes remaining
+k=75: Connectivity: 100.00%
+
+Analysing network with k=100
+Removed 100 nodes, 1584 nodes remaining
+k=75: Connectivity: 100.00%
+
+Analysing network with k=100
+Removed 100 nodes, 1584 nodes remaining
+k=75: Connectivity: 100.00%
+k=75: Connectivity: 100.00%
+
+Analysing network with k=100
+Removed 100 nodes, 1584 nodes remaining
+
+Analysing network with k=100
+Removed 100 nodes, 1584 nodes remaining
+k=75: Connectivity: 100.00%
+
+Analysing network with k=100
+Removed 100 nodes, 1584 nodes remaining
+k=75: Connectivity: 100.00%
+
+Analysing network with k=100
+Removed 100 nodes, 1584 nodes remaining
+k=100: Connectivity: 100.00%
+
+Analysing network with k=125
+Removed 125 nodes, 1559 nodes remaining
+k=100: Connectivity: 100.00%
+
+Analysing network with k=125
+Removed 125 nodes, 1559 nodes remaining
+k=100: Connectivity: 100.00%
+
+Analysing network with k=125
+Removed 125 nodes, 1559 nodes remaining
+k=100: Connectivity: 100.00%
+
+Analysing network with k=125
+Removed 125 nodes, 1559 nodes remaining
+k=100: Connectivity: 100.00%
+
+Analysing network with k=125
+Removed 125 nodes, 1559 nodes remaining
+k=100: Connectivity: 100.00%
+
+Analysing network with k=125
+Removed 125 nodes, 1559 nodes remaining
+k=100: Connectivity: 100.00%
+
+Analysing network with k=125
+Removed 125 nodes, 1559 nodes remaining
+k=100: Connectivity: 100.00%
+
+Analysing network with k=125
+Removed 125 nodes, 1559 nodes remaining
+k=125: Connectivity: 100.00%
+
+Analysing network with k=150
+Removed 150 nodes, 1534 nodes remaining
+k=125: Connectivity: 100.00%
+
+Analysing network with k=150
+Removed 150 nodes, 1534 nodes remaining
+k=125: Connectivity: 100.00%
+
+Analysing network with k=150
+Removed 150 nodes, 1534 nodes remaining
+k=125: Connectivity: 100.00%
+
+Analysing network with k=150
+Removed 150 nodes, 1534 nodes remaining
+k=125: Connectivity: 100.00%
+
+Analysing network with k=150
+Removed 150 nodes, 1534 nodes remaining
+k=125: Connectivity: 100.00%
+
+Analysing network with k=150
+Removed 150 nodes, 1534 nodes remaining
+k=125: Connectivity: 100.00%
+
+Analysing network with k=150
+Removed 150 nodes, 1534 nodes remaining
+k=150: Connectivity: 100.00%
+
+Analysing network with k=175
+Removed 175 nodes, 1509 nodes remaining
+k=125: Connectivity: 100.00%
+
+Analysing network with k=150
+Removed 150 nodes, 1534 nodes remaining
+k=150: Connectivity: 100.00%
+
+Analysing network with k=175
+Removed 175 nodes, 1509 nodes remaining
+k=150: Connectivity: 100.00%
+
+Analysing network with k=175
+Removed 175 nodes, 1509 nodes remaining
+k=150: Connectivity: 100.00%
+
+Analysing network with k=175
+Removed 175 nodes, 1509 nodes remaining
+k=150: Connectivity: 100.00%
+
+Analysing network with k=175
+Removed 175 nodes, 1509 nodes remaining
+k=150: Connectivity: 100.00%
+
+Analysing network with k=175
+Removed 175 nodes, 1509 nodes remaining
+k=150: Connectivity: 100.00%
+
+Analysing network with k=175
+Removed 175 nodes, 1509 nodes remaining
+k=175: Connectivity: 100.00%
+
+Analysing network with k=200
+Removed 200 nodes, 1484 nodes remaining
+k=175: Connectivity: 100.00%
+
+Analysing network with k=200
+Removed 200 nodes, 1484 nodes remaining
+k=150: Connectivity: 100.00%
+
+Analysing network with k=175
+Removed 175 nodes, 1509 nodes remaining
+k=175: Connectivity: 100.00%
+
+Analysing network with k=200
+Removed 200 nodes, 1484 nodes remaining
+k=175: Connectivity: 100.00%
+
+Analysing network with k=200
+Removed 200 nodes, 1484 nodes remaining
+k=175: Connectivity: 100.00%
+
+Analysing network with k=200
+Removed 200 nodes, 1484 nodes remaining
+k=175: Connectivity: 100.00%
+
+Analysing network with k=200
+Removed 200 nodes, 1484 nodes remaining
+k=200: Connectivity: 100.00%
+
+Analysing network with k=225
+Removed 225 nodes, 1459 nodes remaining
+k=175: Connectivity: 100.00%
+
+Analysing network with k=200
+Removed 200 nodes, 1484 nodes remaining
+k=200: Connectivity: 100.00%
+
+Analysing network with k=225
+Removed 225 nodes, 1459 nodes remaining
+k=175: Connectivity: 100.00%
+
+Analysing network with k=200
+Removed 200 nodes, 1484 nodes remaining
+k=200: Connectivity: 98.00%
+
+Analysing network with k=225
+Removed 225 nodes, 1459 nodes remaining
+k=200: Connectivity: 100.00%
+
+Analysing network with k=225
+Removed 225 nodes, 1459 nodes remaining
+k=200: Connectivity: 100.00%
+
+Analysing network with k=225
+Removed 225 nodes, 1459 nodes remaining
+k=200: Connectivity: 100.00%
+
+Analysing network with k=225
+Removed 225 nodes, 1459 nodes remaining
+k=225: Connectivity: 100.00%
+
+Analysing network with k=250
+Removed 250 nodes, 1434 nodes remaining
+k=225: Connectivity: 100.00%
+
+Analysing network with k=250
+Removed 250 nodes, 1434 nodes remaining
+k=200: Connectivity: 100.00%
+
+Analysing network with k=225
+Removed 225 nodes, 1459 nodes remaining
+k=200: Connectivity: 98.00%
+
+Analysing network with k=225
+Removed 225 nodes, 1459 nodes remaining
+k=225: Connectivity: 100.00%
+
+Analysing network with k=250
+Removed 250 nodes, 1434 nodes remaining
+k=225: Connectivity: 96.02%
+
+Analysing network with k=250
+Removed 250 nodes, 1434 nodes remaining
+k=225: Connectivity: 100.00%
+
+Analysing network with k=250
+Removed 250 nodes, 1434 nodes remaining
+k=250: Connectivity: 98.00%
+Saving resilience metrics...
+Saving resilience metrics to ../analysis/data/starlink_550/5000ms_for_200s/network_paths
+Processing 11 k values
+Writing 11 rows to CSV
+Successfully saved resilience metrics
+Time point 75000000000 processing complete
+
+Processing time point 90000000000
+Constructing graph...
+Debug time info:
+Epoch: 2000-01-01 00:00:00.000
+Computation time: 2000-01-01 00:01:30.000
+Time since epoch (ns): 90000000000
+Completed 11/40 time points (Successful: 11)
+k=250: Connectivity: 100.00%
+Saving resilience metrics...
+Saving resilience metrics to ../analysis/data/starlink_550/5000ms_for_200s/network_paths
+Processing 11 k values
+Writing 11 rows to CSV
+Successfully saved resilience metrics
+Time point 80000000000 processing complete
+
+Processing time point 95000000000
+Constructing graph...
+Debug time info:
+Epoch: 2000-01-01 00:00:00.000
+Computation time: 2000-01-01 00:01:35.000
+Time since epoch (ns): 95000000000
+Completed 12/40 time points (Successful: 12)
+k=225: Connectivity: 98.00%
+
+Analysing network with k=250
+Removed 250 nodes, 1434 nodes remaining
+Saving graph pickle...
+Graph constructed with 1684 nodes
+Calculating base metrics...
+k=225: Connectivity: 100.00%
+
+Analysing network with k=250
+Removed 250 nodes, 1434 nodes remaining
+Saving graph pickle...
+Graph constructed with 1684 nodes
+Calculating base metrics...
+k=250: Connectivity: 98.00%
+Saving resilience metrics...
+Saving resilience metrics to ../analysis/data/starlink_550/5000ms_for_200s/network_paths
+Processing 11 k values
+Writing 11 rows to CSV
+Successfully saved resilience metrics
+Time point 60000000000 processing complete
+Completed 13/40 time points (Successful: 13)
+k=225: Connectivity: 96.02%
+
+Analysing network with k=250
+Removed 250 nodes, 1434 nodes remaining
+k=250: Connectivity: 96.02%
+Saving resilience metrics...
+Saving resilience metrics to ../analysis/data/starlink_550/5000ms_for_200s/network_paths
+Processing 11 k values
+Writing 11 rows to CSV
+Successfully saved resilience metrics
+Time point 55000000000 processing complete
+Completed 14/40 time points (Successful: 14)
+k=250: Connectivity: 100.00%
+Saving resilience metrics...
+Saving resilience metrics to ../analysis/data/starlink_550/5000ms_for_200s/network_paths
+Processing 11 k values
+Writing 11 rows to CSV
+Successfully saved resilience metrics
+Time point 85000000000 processing complete
+Completed 15/40 time points (Successful: 15)
+k=250: Connectivity: 98.00%
+Saving resilience metrics...
+Saving resilience metrics to ../analysis/data/starlink_550/5000ms_for_200s/network_paths
+Processing 11 k values
+Writing 11 rows to CSV
+k=250: Connectivity: 98.00%
+Saving resilience metrics...
+Saving resilience metrics to ../analysis/data/starlink_550/5000ms_for_200s/network_paths
+Processing 11 k values
+Writing 11 rows to CSV
+Successfully saved resilience metrics
+Time point 65000000000 processing complete
+Successfully saved resilience metrics
+Time point 70000000000 processing complete
+Completed 16/40 time points (Successful: 16)
+Completed 17/40 time points (Successful: 17)
+k=250: Connectivity: 96.02%
+Saving resilience metrics...
+Saving resilience metrics to ../analysis/data/starlink_550/5000ms_for_200s/network_paths
+Processing 11 k values
+Writing 11 rows to CSV
+Successfully saved resilience metrics
+Time point 50000000000 processing complete
+Completed 18/40 time points (Successful: 18)
+Base connectivity: 100.00%
+Saving path metrics...
+Saving betweenness metrics...
+Starting resilience analysis...
+Starting resilience analysis with 1684 nodes
+Calculating initial betweenness centrality...
+Base connectivity: 100.00%
+Saving path metrics...
+Saving betweenness metrics...
+Starting resilience analysis...
+Starting resilience analysis with 1684 nodes
+Calculating initial betweenness centrality...
+Found 1584 satellite nodes
+
+Analysing network with k=0
+Removed 0 nodes, 1684 nodes remaining
+Found 1584 satellite nodes
+
+Analysing network with k=0
+Removed 0 nodes, 1684 nodes remaining
+k=0: Connectivity: 100.00%
+
+Analysing network with k=25
+Removed 25 nodes, 1659 nodes remaining
+k=0: Connectivity: 100.00%
+
+Analysing network with k=25
+Removed 25 nodes, 1659 nodes remaining
+k=25: Connectivity: 100.00%
+
+Analysing network with k=50
+Removed 50 nodes, 1634 nodes remaining
+k=25: Connectivity: 100.00%
+
+Analysing network with k=50
+Removed 50 nodes, 1634 nodes remaining
+k=50: Connectivity: 100.00%
+
+Analysing network with k=75
+Removed 75 nodes, 1609 nodes remaining
+k=50: Connectivity: 100.00%
+
+Analysing network with k=75
+Removed 75 nodes, 1609 nodes remaining
+k=75: Connectivity: 100.00%
+
+Analysing network with k=100
+Removed 100 nodes, 1584 nodes remaining
+k=75: Connectivity: 100.00%
+
+Analysing network with k=100
+Removed 100 nodes, 1584 nodes remaining
+k=100: Connectivity: 100.00%
+
+Analysing network with k=125
+Removed 125 nodes, 1559 nodes remaining
+k=100: Connectivity: 100.00%
+
+Analysing network with k=125
+Removed 125 nodes, 1559 nodes remaining
+k=125: Connectivity: 100.00%
+
+Analysing network with k=150
+Removed 150 nodes, 1534 nodes remaining
+k=125: Connectivity: 100.00%
+
+Analysing network with k=150
+Removed 150 nodes, 1534 nodes remaining
+k=150: Connectivity: 100.00%
+
+Analysing network with k=175
+Removed 175 nodes, 1509 nodes remaining
+k=150: Connectivity: 100.00%
+
+Analysing network with k=175
+Removed 175 nodes, 1509 nodes remaining
+k=175: Connectivity: 100.00%
+
+Analysing network with k=200
+Removed 200 nodes, 1484 nodes remaining
+k=175: Connectivity: 100.00%
+
+Analysing network with k=200
+Removed 200 nodes, 1484 nodes remaining
+k=200: Connectivity: 100.00%
+
+Analysing network with k=225
+Removed 225 nodes, 1459 nodes remaining
+k=200: Connectivity: 100.00%
+
+Analysing network with k=225
+Removed 225 nodes, 1459 nodes remaining
+k=225: Connectivity: 100.00%
+
+Analysing network with k=250
+Removed 250 nodes, 1434 nodes remaining
+k=225: Connectivity: 100.00%
+
+Analysing network with k=250
+Removed 250 nodes, 1434 nodes remaining
+k=250: Connectivity: 100.00%
+Saving resilience metrics...
+Saving resilience metrics to ../analysis/data/starlink_550/5000ms_for_200s/network_paths
+Processing 11 k values
+Writing 11 rows to CSV
+Successfully saved resilience metrics
+Time point 95000000000 processing complete
+Completed 19/40 time points (Successful: 19)
+k=250: Connectivity: 100.00%
+Saving resilience metrics...
+Saving resilience metrics to ../analysis/data/starlink_550/5000ms_for_200s/network_paths
+Processing 11 k values
+Writing 11 rows to CSV
+Successfully saved resilience metrics
+Time point 90000000000 processing complete
+Completed 20/40 time points (Successful: 20)
+
+Processing batch starting at time point 100000000000
+
+Processing time point 100000000000
+Constructing graph...
+Debug time info:
+Epoch: 2000-01-01 00:00:00.000
+Computation time: 2000-01-01 00:01:40.000
+Time since epoch (ns): 100000000000
+
+Processing time point 105000000000
+Constructing graph...
+Debug time info:
+Epoch: 2000-01-01 00:00:00.000
+Computation time: 2000-01-01 00:01:45.000
+Time since epoch (ns): 105000000000
+
+Processing time point 110000000000
+Constructing graph...
+Debug time info:
+Epoch: 2000-01-01 00:00:00.000
+Computation time: 2000-01-01 00:01:50.000
+Time since epoch (ns): 110000000000
+
+Processing time point 115000000000
+Constructing graph...
+Debug time info:
+Epoch: 2000-01-01 00:00:00.000
+Computation time: 2000-01-01 00:01:55.000
+Time since epoch (ns): 115000000000
+
+Processing time point 120000000000
+Constructing graph...
+Debug time info:
+Epoch: 2000-01-01 00:00:00.000
+Computation time: 2000-01-01 00:02:00.000
+Time since epoch (ns): 120000000000
+
+Processing time point 125000000000
+Constructing graph...
+Debug time info:
+Epoch: 2000-01-01 00:00:00.000
+Computation time: 2000-01-01 00:02:05.000
+Time since epoch (ns): 125000000000
+
+Processing time point 130000000000
+Constructing graph...
+Debug time info:
+Epoch: 2000-01-01 00:00:00.000
+Computation time: 2000-01-01 00:02:10.000
+Time since epoch (ns): 130000000000
+
+Processing time point 135000000000
+Constructing graph...
+Debug time info:
+Epoch: 2000-01-01 00:00:00.000
+Computation time: 2000-01-01 00:02:15.000
+Time since epoch (ns): 135000000000
+Saving graph pickle...
+Graph constructed with 1684 nodes
+Calculating base metrics...
+Saving graph pickle...
+Saving graph pickle...
+Saving graph pickle...
+Graph constructed with 1684 nodes
+Calculating base metrics...
+Saving graph pickle...
+Graph constructed with 1684 nodes
+Calculating base metrics...
+Saving graph pickle...
+Graph constructed with 1684 nodes
+Calculating base metrics...
+Graph constructed with 1684 nodes
+Calculating base metrics...
+Graph constructed with 1684 nodes
+Calculating base metrics...
+Saving graph pickle...
+Graph constructed with 1684 nodes
+Calculating base metrics...
+Saving graph pickle...
+Graph constructed with 1684 nodes
+Calculating base metrics...
+Base connectivity: 100.00%
+Saving path metrics...
+Saving betweenness metrics...
+Starting resilience analysis...
+Starting resilience analysis with 1684 nodes
+Calculating initial betweenness centrality...
+Base connectivity: 100.00%
+Saving path metrics...
+Base connectivity: 100.00%
+Saving path metrics...
+Saving betweenness metrics...
+Saving betweenness metrics...
+Base connectivity: 100.00%
+Saving path metrics...
+Starting resilience analysis...
+Starting resilience analysis with 1684 nodes
+Calculating initial betweenness centrality...
+Saving betweenness metrics...
+Starting resilience analysis...
+Starting resilience analysis with 1684 nodes
+Calculating initial betweenness centrality...
+Starting resilience analysis...
+Starting resilience analysis with 1684 nodes
+Calculating initial betweenness centrality...
+Base connectivity: 100.00%
+Saving path metrics...
+Saving betweenness metrics...
+Starting resilience analysis...
+Starting resilience analysis with 1684 nodes
+Calculating initial betweenness centrality...
+Base connectivity: 100.00%
+Saving path metrics...
+Saving betweenness metrics...
+Starting resilience analysis...
+Starting resilience analysis with 1684 nodes
+Calculating initial betweenness centrality...
+Base connectivity: 100.00%
+Saving path metrics...
+Saving betweenness metrics...
+Starting resilience analysis...
+Starting resilience analysis with 1684 nodes
+Calculating initial betweenness centrality...
+Base connectivity: 100.00%
+Saving path metrics...
+Saving betweenness metrics...
+Starting resilience analysis...
+Starting resilience analysis with 1684 nodes
+Calculating initial betweenness centrality...
+Found 1584 satellite nodes
+
+Analysing network with k=0
+Removed 0 nodes, 1684 nodes remaining
+Found 1584 satellite nodes
+
+Analysing network with k=0
+Removed 0 nodes, 1684 nodes remaining
+Found 1584 satellite nodes
+Found 1584 satellite nodes
+
+Analysing network with k=0
+
+Analysing network with k=0
+Removed 0 nodes, 1684 nodes remaining
+Removed 0 nodes, 1684 nodes remaining
+Found 1584 satellite nodes
+
+Analysing network with k=0
+Removed 0 nodes, 1684 nodes remaining
+Found 1584 satellite nodes
+
+Analysing network with k=0
+Removed 0 nodes, 1684 nodes remaining
+Found 1584 satellite nodes
+
+Analysing network with k=0
+Removed 0 nodes, 1684 nodes remaining
+Found 1584 satellite nodes
+
+Analysing network with k=0
+Removed 0 nodes, 1684 nodes remaining
+k=0: Connectivity: 100.00%
+
+Analysing network with k=25
+Removed 25 nodes, 1659 nodes remaining
+k=0: Connectivity: 100.00%
+
+Analysing network with k=25
+Removed 25 nodes, 1659 nodes remaining
+k=0: Connectivity: 100.00%
+
+Analysing network with k=25
+Removed 25 nodes, 1659 nodes remaining
+k=0: Connectivity: 100.00%
+
+Analysing network with k=25
+Removed 25 nodes, 1659 nodes remaining
+k=0: Connectivity: 100.00%
+
+Analysing network with k=25
+Removed 25 nodes, 1659 nodes remaining
+k=0: Connectivity: 100.00%
+
+Analysing network with k=25
+Removed 25 nodes, 1659 nodes remaining
+k=0: Connectivity: 100.00%
+
+Analysing network with k=25
+Removed 25 nodes, 1659 nodes remaining
+k=0: Connectivity: 100.00%
+
+Analysing network with k=25
+Removed 25 nodes, 1659 nodes remaining
+k=25: Connectivity: 100.00%
+
+Analysing network with k=50
+Removed 50 nodes, 1634 nodes remaining
+k=25: Connectivity: 100.00%
+
+Analysing network with k=50
+Removed 50 nodes, 1634 nodes remaining
+k=25: Connectivity: 100.00%
+
+Analysing network with k=50
+Removed 50 nodes, 1634 nodes remaining
+k=25: Connectivity: 100.00%
+
+Analysing network with k=50
+Removed 50 nodes, 1634 nodes remaining
+k=25: Connectivity: 100.00%
+
+Analysing network with k=50
+Removed 50 nodes, 1634 nodes remaining
+k=25: Connectivity: 100.00%
+
+Analysing network with k=50
+Removed 50 nodes, 1634 nodes remaining
+k=25: Connectivity: 100.00%
+k=25: Connectivity: 100.00%
+
+Analysing network with k=50
+Removed 50 nodes, 1634 nodes remaining
+
+Analysing network with k=50
+Removed 50 nodes, 1634 nodes remaining
+k=50: Connectivity: 100.00%
+
+Analysing network with k=75
+Removed 75 nodes, 1609 nodes remaining
+k=50: Connectivity: 100.00%
+
+Analysing network with k=75
+Removed 75 nodes, 1609 nodes remaining
+k=50: Connectivity: 100.00%
+
+Analysing network with k=75
+Removed 75 nodes, 1609 nodes remaining
+k=50: Connectivity: 100.00%
+
+Analysing network with k=75
+Removed 75 nodes, 1609 nodes remaining
+k=50: Connectivity: 100.00%
+
+Analysing network with k=75
+Removed 75 nodes, 1609 nodes remaining
+k=50: Connectivity: 100.00%
+
+Analysing network with k=75
+Removed 75 nodes, 1609 nodes remaining
+k=50: Connectivity: 100.00%
+
+Analysing network with k=75
+Removed 75 nodes, 1609 nodes remaining
+k=50: Connectivity: 100.00%
+
+Analysing network with k=75
+Removed 75 nodes, 1609 nodes remaining
+k=75: Connectivity: 100.00%
+
+Analysing network with k=100
+Removed 100 nodes, 1584 nodes remaining
+k=75: Connectivity: 100.00%
+
+Analysing network with k=100
+Removed 100 nodes, 1584 nodes remaining
+k=75: Connectivity: 100.00%
+
+Analysing network with k=100
+Removed 100 nodes, 1584 nodes remaining
+k=75: Connectivity: 100.00%
+
+Analysing network with k=100
+Removed 100 nodes, 1584 nodes remaining
+k=75: Connectivity: 100.00%
+
+Analysing network with k=100
+Removed 100 nodes, 1584 nodes remaining
+k=75: Connectivity: 100.00%
+
+Analysing network with k=100
+k=75: Connectivity: 100.00%
+
+Analysing network with k=100
+Removed 100 nodes, 1584 nodes remaining
+Removed 100 nodes, 1584 nodes remaining
+k=75: Connectivity: 100.00%
+
+Analysing network with k=100
+Removed 100 nodes, 1584 nodes remaining
+k=100: Connectivity: 100.00%
+
+Analysing network with k=125
+Removed 125 nodes, 1559 nodes remaining
+k=100: Connectivity: 100.00%
+
+Analysing network with k=125
+Removed 125 nodes, 1559 nodes remaining
+k=100: Connectivity: 100.00%
+
+Analysing network with k=125
+Removed 125 nodes, 1559 nodes remaining
+k=100: Connectivity: 100.00%
+
+Analysing network with k=125
+Removed 125 nodes, 1559 nodes remaining
+k=100: Connectivity: 100.00%
+
+Analysing network with k=125
+Removed 125 nodes, 1559 nodes remaining
+k=100: Connectivity: 100.00%
+
+Analysing network with k=125
+Removed 125 nodes, 1559 nodes remaining
+k=100: Connectivity: 100.00%
+
+Analysing network with k=125
+Removed 125 nodes, 1559 nodes remaining
+k=100: Connectivity: 100.00%
+
+Analysing network with k=125
+Removed 125 nodes, 1559 nodes remaining
+k=125: Connectivity: 100.00%
+
+Analysing network with k=150
+Removed 150 nodes, 1534 nodes remaining
+k=125: Connectivity: 100.00%
+
+Analysing network with k=150
+Removed 150 nodes, 1534 nodes remaining
+k=125: Connectivity: 100.00%
+
+Analysing network with k=150
+Removed 150 nodes, 1534 nodes remaining
+k=125: Connectivity: 100.00%
+
+Analysing network with k=150
+Removed 150 nodes, 1534 nodes remaining
+k=125: Connectivity: 100.00%
+
+Analysing network with k=150
+Removed 150 nodes, 1534 nodes remaining
+k=125: Connectivity: 100.00%
+
+Analysing network with k=150
+Removed 150 nodes, 1534 nodes remaining
+k=125: Connectivity: 100.00%
+
+Analysing network with k=150
+Removed 150 nodes, 1534 nodes remaining
+k=125: Connectivity: 100.00%
+
+Analysing network with k=150
+Removed 150 nodes, 1534 nodes remaining
+k=150: Connectivity: 100.00%
+
+Analysing network with k=175
+Removed 175 nodes, 1509 nodes remaining
+k=150: Connectivity: 100.00%
+
+Analysing network with k=175
+Removed 175 nodes, 1509 nodes remaining
+k=150: Connectivity: 100.00%
+
+Analysing network with k=175
+Removed 175 nodes, 1509 nodes remaining
+k=150: Connectivity: 100.00%
+
+Analysing network with k=175
+Removed 175 nodes, 1509 nodes remaining
+k=150: Connectivity: 100.00%
+
+Analysing network with k=175
+Removed 175 nodes, 1509 nodes remaining
+k=150: Connectivity: 100.00%
+
+Analysing network with k=175
+Removed 175 nodes, 1509 nodes remaining
+k=150: Connectivity: 100.00%
+
+Analysing network with k=175
+Removed 175 nodes, 1509 nodes remaining
+k=150: Connectivity: 100.00%
+
+Analysing network with k=175
+Removed 175 nodes, 1509 nodes remaining
+k=175: Connectivity: 100.00%
+
+Analysing network with k=200
+Removed 200 nodes, 1484 nodes remaining
+k=175: Connectivity: 100.00%
+
+Analysing network with k=200
+Removed 200 nodes, 1484 nodes remaining
+k=175: Connectivity: 100.00%
+
+Analysing network with k=200
+Removed 200 nodes, 1484 nodes remaining
+k=175: Connectivity: 100.00%
+
+Analysing network with k=200
+Removed 200 nodes, 1484 nodes remaining
+k=175: Connectivity: 100.00%
+
+Analysing network with k=200
+Removed 200 nodes, 1484 nodes remaining
+k=175: Connectivity: 100.00%
+
+Analysing network with k=200
+Removed 200 nodes, 1484 nodes remaining
+k=200: Connectivity: 100.00%
+
+Analysing network with k=225
+k=175: Connectivity: 100.00%
+
+Analysing network with k=200
+Removed 200 nodes, 1484 nodes remaining
+Removed 225 nodes, 1459 nodes remaining
+k=200: Connectivity: 100.00%
+
+Analysing network with k=225
+Removed 225 nodes, 1459 nodes remaining
+k=175: Connectivity: 100.00%
+
+Analysing network with k=200
+Removed 200 nodes, 1484 nodes remaining
+k=200: Connectivity: 100.00%
+
+Analysing network with k=225
+Removed 225 nodes, 1459 nodes remaining
+k=200: Connectivity: 100.00%
+
+Analysing network with k=225
+Removed 225 nodes, 1459 nodes remaining
+k=225: Connectivity: 100.00%
+
+Analysing network with k=250
+Removed 250 nodes, 1434 nodes remaining
+k=200: Connectivity: 100.00%
+
+Analysing network with k=225
+Removed 225 nodes, 1459 nodes remaining
+k=200: Connectivity: 100.00%
+
+Analysing network with k=225
+Removed 225 nodes, 1459 nodes remaining
+k=200: Connectivity: 100.00%
+
+Analysing network with k=225
+Removed 225 nodes, 1459 nodes remaining
+k=225: Connectivity: 100.00%
+
+Analysing network with k=250
+Removed 250 nodes, 1434 nodes remaining
+k=225: Connectivity: 100.00%
+
+Analysing network with k=250
+Removed 250 nodes, 1434 nodes remaining
+k=225: Connectivity: 98.00%
+
+Analysing network with k=250
+Removed 250 nodes, 1434 nodes remaining
+k=200: Connectivity: 100.00%
+
+Analysing network with k=225
+Removed 225 nodes, 1459 nodes remaining
+k=250: Connectivity: 100.00%
+Saving resilience metrics...
+Saving resilience metrics to ../analysis/data/starlink_550/5000ms_for_200s/network_paths
+Processing 11 k values
+Writing 11 rows to CSV
+Successfully saved resilience metrics
+Time point 130000000000 processing complete
+
+Processing time point 140000000000
+Constructing graph...
+Debug time info:
+Epoch: 2000-01-01 00:00:00.000
+Computation time: 2000-01-01 00:02:20.000
+Time since epoch (ns): 140000000000
+Completed 21/40 time points (Successful: 21)
+k=250: Connectivity: 98.00%
+Saving resilience metrics...
+Saving resilience metrics to ../analysis/data/starlink_550/5000ms_for_200s/network_paths
+Processing 11 k values
+Writing 11 rows to CSV
+Successfully saved resilience metrics
+Time point 120000000000 processing complete
+
+Processing time point 145000000000
+Constructing graph...
+Debug time info:
+Epoch: 2000-01-01 00:00:00.000
+Computation time: 2000-01-01 00:02:25.000
+Time since epoch (ns): 145000000000
+Completed 22/40 time points (Successful: 22)
+k=225: Connectivity: 100.00%
+
+Analysing network with k=250
+Removed 250 nodes, 1434 nodes remaining
+k=250: Connectivity: 100.00%
+Saving resilience metrics...
+Saving resilience metrics to ../analysis/data/starlink_550/5000ms_for_200s/network_paths
+Processing 11 k values
+Writing 11 rows to CSV
+Successfully saved resilience metrics
+Time point 115000000000 processing complete
+Completed 23/40 time points (Successful: 23)
+Saving graph pickle...
+k=225: Connectivity: 100.00%
+
+Analysing network with k=250
+Removed 250 nodes, 1434 nodes remaining
+k=250: Connectivity: 98.00%
+Saving resilience metrics...
+Saving resilience metrics to ../analysis/data/starlink_550/5000ms_for_200s/network_paths
+Processing 11 k values
+Writing 11 rows to CSV
+Successfully saved resilience metrics
+Time point 105000000000 processing complete
+Completed 24/40 time points (Successful: 24)
+k=225: Connectivity: 100.00%
+
+Analysing network with k=250
+Graph constructed with 1684 nodes
+Calculating base metrics...
+Removed 250 nodes, 1434 nodes remaining
+Saving graph pickle...
+Graph constructed with 1684 nodes
+Calculating base metrics...
+k=225: Connectivity: 98.00%
+
+Analysing network with k=250
+Removed 250 nodes, 1434 nodes remaining
+k=250: Connectivity: 100.00%
+Saving resilience metrics...
+Saving resilience metrics to ../analysis/data/starlink_550/5000ms_for_200s/network_paths
+Processing 11 k values
+Writing 11 rows to CSV
+Successfully saved resilience metrics
+Time point 100000000000 processing complete
+Completed 25/40 time points (Successful: 25)
+k=250: Connectivity: 100.00%
+Saving resilience metrics...
+Saving resilience metrics to ../analysis/data/starlink_550/5000ms_for_200s/network_paths
+Processing 11 k values
+Writing 11 rows to CSV
+Successfully saved resilience metrics
+Time point 125000000000 processing complete
+Completed 26/40 time points (Successful: 26)
+k=250: Connectivity: 100.00%
+Saving resilience metrics...
+Saving resilience metrics to ../analysis/data/starlink_550/5000ms_for_200s/network_paths
+Processing 11 k values
+Writing 11 rows to CSV
+Successfully saved resilience metrics
+Time point 135000000000 processing complete
+Completed 27/40 time points (Successful: 27)
+k=250: Connectivity: 98.00%
+Saving resilience metrics...
+Saving resilience metrics to ../analysis/data/starlink_550/5000ms_for_200s/network_paths
+Processing 11 k values
+Writing 11 rows to CSV
+Successfully saved resilience metrics
+Time point 110000000000 processing complete
+Completed 28/40 time points (Successful: 28)
+Base connectivity: 100.00%
+Saving path metrics...
+Saving betweenness metrics...
+Starting resilience analysis...
+Starting resilience analysis with 1684 nodes
+Calculating initial betweenness centrality...
+Base connectivity: 100.00%
+Saving path metrics...
+Saving betweenness metrics...
+Starting resilience analysis...
+Starting resilience analysis with 1684 nodes
+Calculating initial betweenness centrality...
+Found 1584 satellite nodes
+
+Analysing network with k=0
+Removed 0 nodes, 1684 nodes remaining
+Found 1584 satellite nodes
+
+Analysing network with k=0
+Removed 0 nodes, 1684 nodes remaining
+k=0: Connectivity: 100.00%
+
+Analysing network with k=25
+Removed 25 nodes, 1659 nodes remaining
+k=0: Connectivity: 100.00%
+
+Analysing network with k=25
+Removed 25 nodes, 1659 nodes remaining
+k=25: Connectivity: 100.00%
+
+Analysing network with k=50
+Removed 50 nodes, 1634 nodes remaining
+k=25: Connectivity: 100.00%
+
+Analysing network with k=50
+Removed 50 nodes, 1634 nodes remaining
+k=50: Connectivity: 100.00%
+
+Analysing network with k=75
+Removed 75 nodes, 1609 nodes remaining
+k=50: Connectivity: 100.00%
+
+Analysing network with k=75
+Removed 75 nodes, 1609 nodes remaining
+k=75: Connectivity: 100.00%
+
+Analysing network with k=100
+Removed 100 nodes, 1584 nodes remaining
+k=75: Connectivity: 100.00%
+
+Analysing network with k=100
+Removed 100 nodes, 1584 nodes remaining
+k=100: Connectivity: 100.00%
+
+Analysing network with k=125
+Removed 125 nodes, 1559 nodes remaining
+k=100: Connectivity: 100.00%
+
+Analysing network with k=125
+Removed 125 nodes, 1559 nodes remaining
+k=125: Connectivity: 100.00%
+
+Analysing network with k=150
+Removed 150 nodes, 1534 nodes remaining
+k=125: Connectivity: 100.00%
+
+Analysing network with k=150
+Removed 150 nodes, 1534 nodes remaining
+k=150: Connectivity: 100.00%
+
+Analysing network with k=175
+Removed 175 nodes, 1509 nodes remaining
+k=150: Connectivity: 100.00%
+
+Analysing network with k=175
+Removed 175 nodes, 1509 nodes remaining
+k=175: Connectivity: 100.00%
+
+Analysing network with k=200
+Removed 200 nodes, 1484 nodes remaining
+k=175: Connectivity: 100.00%
+
+Analysing network with k=200
+Removed 200 nodes, 1484 nodes remaining
+k=200: Connectivity: 100.00%
+
+Analysing network with k=225
+Removed 225 nodes, 1459 nodes remaining
+k=200: Connectivity: 100.00%
+
+Analysing network with k=225
+Removed 225 nodes, 1459 nodes remaining
+k=225: Connectivity: 100.00%
+
+Analysing network with k=250
+Removed 250 nodes, 1434 nodes remaining
+k=225: Connectivity: 100.00%
+
+Analysing network with k=250
+Removed 250 nodes, 1434 nodes remaining
+k=250: Connectivity: 100.00%
+Saving resilience metrics...
+Saving resilience metrics to ../analysis/data/starlink_550/5000ms_for_200s/network_paths
+Processing 11 k values
+Writing 11 rows to CSV
+Successfully saved resilience metrics
+Time point 140000000000 processing complete
+Completed 29/40 time points (Successful: 29)
+k=250: Connectivity: 100.00%
+Saving resilience metrics...
+Saving resilience metrics to ../analysis/data/starlink_550/5000ms_for_200s/network_paths
+Processing 11 k values
+Writing 11 rows to CSV
+Successfully saved resilience metrics
+Time point 145000000000 processing complete
+Completed 30/40 time points (Successful: 30)
+
+Processing batch starting at time point 150000000000
+
+Processing time point 150000000000
+Constructing graph...
+Debug time info:
+Epoch: 2000-01-01 00:00:00.000
+Computation time: 2000-01-01 00:02:30.000
+Time since epoch (ns): 150000000000
+
+Processing time point 155000000000
+Constructing graph...
+Debug time info:
+Epoch: 2000-01-01 00:00:00.000
+Computation time: 2000-01-01 00:02:35.000
+Time since epoch (ns): 155000000000
+
+Processing time point 160000000000
+Constructing graph...
+Debug time info:
+Epoch: 2000-01-01 00:00:00.000
+Computation time: 2000-01-01 00:02:40.000
+Time since epoch (ns): 160000000000
+
+Processing time point 165000000000
+Constructing graph...
+Debug time info:
+Epoch: 2000-01-01 00:00:00.000
+Computation time: 2000-01-01 00:02:45.000
+Time since epoch (ns): 165000000000
+
+Processing time point 170000000000
+Constructing graph...
+Debug time info:
+Epoch: 2000-01-01 00:00:00.000
+Computation time: 2000-01-01 00:02:50.000
+Time since epoch (ns): 170000000000
+
+Processing time point 175000000000
+Constructing graph...
+Debug time info:
+Epoch: 2000-01-01 00:00:00.000
+Computation time: 2000-01-01 00:02:55.000
+Time since epoch (ns): 175000000000
+
+Processing time point 180000000000
+Constructing graph...
+Debug time info:
+Epoch: 2000-01-01 00:00:00.000
+Computation time: 2000-01-01 00:03:00.000
+Time since epoch (ns): 180000000000
+
+Processing time point 185000000000
+Constructing graph...
+Debug time info:
+Epoch: 2000-01-01 00:00:00.000
+Computation time: 2000-01-01 00:03:05.000
+Time since epoch (ns): 185000000000
+Saving graph pickle...
+Saving graph pickle...
+Graph constructed with 1684 nodes
+Calculating base metrics...
+Graph constructed with 1684 nodes
+Calculating base metrics...
+Saving graph pickle...
+Saving graph pickle...
+Graph constructed with 1684 nodes
+Calculating base metrics...
+Graph constructed with 1684 nodes
+Calculating base metrics...
+Saving graph pickle...
+Graph constructed with 1684 nodes
+Calculating base metrics...
+Saving graph pickle...
+Saving graph pickle...
+Graph constructed with 1684 nodes
+Calculating base metrics...
+Graph constructed with 1684 nodes
+Calculating base metrics...
+Saving graph pickle...
+Graph constructed with 1684 nodes
+Calculating base metrics...
+Base connectivity: 100.00%
+Saving path metrics...
+Saving betweenness metrics...
+Starting resilience analysis...
+Starting resilience analysis with 1684 nodes
+Calculating initial betweenness centrality...
+Base connectivity: 100.00%
+Saving path metrics...
+Saving betweenness metrics...
+Starting resilience analysis...
+Starting resilience analysis with 1684 nodes
+Calculating initial betweenness centrality...
+Base connectivity: 100.00%
+Saving path metrics...
+Saving betweenness metrics...
+Starting resilience analysis...
+Starting resilience analysis with 1684 nodes
+Calculating initial betweenness centrality...
+Base connectivity: 100.00%
+Saving path metrics...
+Saving betweenness metrics...
+Base connectivity: 100.00%
+Saving path metrics...
+Saving betweenness metrics...
+Starting resilience analysis...
+Starting resilience analysis with 1684 nodes
+Calculating initial betweenness centrality...
+Base connectivity: 100.00%
+Saving path metrics...
+Base connectivity: 100.00%
+Saving path metrics...
+Saving betweenness metrics...
+Starting resilience analysis...
+Starting resilience analysis with 1684 nodes
+Calculating initial betweenness centrality...
+Saving betweenness metrics...
+Starting resilience analysis...
+Starting resilience analysis with 1684 nodes
+Calculating initial betweenness centrality...
+Starting resilience analysis...
+Starting resilience analysis with 1684 nodes
+Calculating initial betweenness centrality...
+Base connectivity: 100.00%
+Saving path metrics...
+Saving betweenness metrics...
+Starting resilience analysis...
+Starting resilience analysis with 1684 nodes
+Calculating initial betweenness centrality...
+Found 1584 satellite nodes
+
+Analysing network with k=0
+Removed 0 nodes, 1684 nodes remaining
+Found 1584 satellite nodes
+
+Analysing network with k=0
+Removed 0 nodes, 1684 nodes remaining
+Found 1584 satellite nodes
+
+Analysing network with k=0
+Removed 0 nodes, 1684 nodes remaining
+Found 1584 satellite nodes
+
+Analysing network with k=0
+Removed 0 nodes, 1684 nodes remaining
+Found 1584 satellite nodes
+
+Analysing network with k=0
+Removed 0 nodes, 1684 nodes remaining
+Found 1584 satellite nodes
+
+Analysing network with k=0
+Removed 0 nodes, 1684 nodes remaining
+Found 1584 satellite nodes
+
+Analysing network with k=0
+Removed 0 nodes, 1684 nodes remaining
+Found 1584 satellite nodes
+
+Analysing network with k=0
+Removed 0 nodes, 1684 nodes remaining
+k=0: Connectivity: 100.00%
+
+Analysing network with k=25
+Removed 25 nodes, 1659 nodes remaining
+k=0: Connectivity: 100.00%
+
+Analysing network with k=25
+Removed 25 nodes, 1659 nodes remaining
+k=0: Connectivity: 100.00%
+
+Analysing network with k=25
+Removed 25 nodes, 1659 nodes remaining
+k=0: Connectivity: 100.00%
+
+Analysing network with k=25
+Removed 25 nodes, 1659 nodes remaining
+k=0: Connectivity: 100.00%
+
+Analysing network with k=25
+Removed 25 nodes, 1659 nodes remaining
+k=0: Connectivity: 100.00%
+
+Analysing network with k=25
+Removed 25 nodes, 1659 nodes remaining
+k=0: Connectivity: 100.00%
+
+Analysing network with k=25
+Removed 25 nodes, 1659 nodes remaining
+k=0: Connectivity: 100.00%
+
+Analysing network with k=25
+Removed 25 nodes, 1659 nodes remaining
+k=25: Connectivity: 100.00%
+
+Analysing network with k=50
+Removed 50 nodes, 1634 nodes remaining
+k=25: Connectivity: 100.00%
+
+Analysing network with k=50
+Removed 50 nodes, 1634 nodes remaining
+k=25: Connectivity: 100.00%
+
+Analysing network with k=50
+Removed 50 nodes, 1634 nodes remaining
+k=25: Connectivity: 100.00%
+
+Analysing network with k=50
+Removed 50 nodes, 1634 nodes remaining
+k=25: Connectivity: 100.00%
+
+Analysing network with k=50
+Removed 50 nodes, 1634 nodes remaining
+k=25: Connectivity: 100.00%
+
+Analysing network with k=50
+Removed 50 nodes, 1634 nodes remaining
+k=25: Connectivity: 100.00%
+
+Analysing network with k=50
+Removed 50 nodes, 1634 nodes remaining
+k=25: Connectivity: 100.00%
+
+Analysing network with k=50
+Removed 50 nodes, 1634 nodes remaining
+k=50: Connectivity: 100.00%
+
+Analysing network with k=75
+Removed 75 nodes, 1609 nodes remaining
+k=50: Connectivity: 100.00%
+
+Analysing network with k=75
+Removed 75 nodes, 1609 nodes remaining
+k=50: Connectivity: 100.00%
+
+Analysing network with k=75
+Removed 75 nodes, 1609 nodes remaining
+k=50: Connectivity: 100.00%
+
+Analysing network with k=75
+Removed 75 nodes, 1609 nodes remaining
+k=50: Connectivity: 100.00%
+
+Analysing network with k=75
+Removed 75 nodes, 1609 nodes remaining
+k=50: Connectivity: 100.00%
+
+Analysing network with k=75
+Removed 75 nodes, 1609 nodes remaining
+k=50: Connectivity: 100.00%
+
+Analysing network with k=75
+Removed 75 nodes, 1609 nodes remaining
+k=50: Connectivity: 100.00%
+
+Analysing network with k=75
+Removed 75 nodes, 1609 nodes remaining
+k=75: Connectivity: 100.00%
+
+Analysing network with k=100
+Removed 100 nodes, 1584 nodes remaining
+k=75: Connectivity: 100.00%
+
+Analysing network with k=100
+Removed 100 nodes, 1584 nodes remaining
+k=75: Connectivity: 100.00%
+
+Analysing network with k=100
+Removed 100 nodes, 1584 nodes remaining
+k=75: Connectivity: 100.00%
+
+Analysing network with k=100
+Removed 100 nodes, 1584 nodes remaining
+k=75: Connectivity: 100.00%
+
+Analysing network with k=100
+Removed 100 nodes, 1584 nodes remaining
+k=75: Connectivity: 100.00%
+
+Analysing network with k=100
+Removed 100 nodes, 1584 nodes remaining
+k=75: Connectivity: 100.00%
+
+Analysing network with k=100
+Removed 100 nodes, 1584 nodes remaining
+k=75: Connectivity: 100.00%
+
+Analysing network with k=100
+Removed 100 nodes, 1584 nodes remaining
+k=100: Connectivity: 100.00%
+
+Analysing network with k=125
+Removed 125 nodes, 1559 nodes remaining
+k=100: Connectivity: 100.00%
+
+Analysing network with k=125
+Removed 125 nodes, 1559 nodes remaining
+k=100: Connectivity: 100.00%
+
+Analysing network with k=125
+Removed 125 nodes, 1559 nodes remaining
+k=100: Connectivity: 100.00%
+
+Analysing network with k=125
+Removed 125 nodes, 1559 nodes remaining
+k=100: Connectivity: 100.00%
+
+Analysing network with k=125
+Removed 125 nodes, 1559 nodes remaining
+k=100: Connectivity: 100.00%
+
+Analysing network with k=125
+Removed 125 nodes, 1559 nodes remaining
+k=100: Connectivity: 100.00%
+
+Analysing network with k=125
+Removed 125 nodes, 1559 nodes remaining
+k=125: Connectivity: 100.00%
+
+Analysing network with k=150
+Removed 150 nodes, 1534 nodes remaining
+k=100: Connectivity: 100.00%
+
+Analysing network with k=125
+Removed 125 nodes, 1559 nodes remaining
+k=125: Connectivity: 100.00%
+
+Analysing network with k=150
+Removed 150 nodes, 1534 nodes remaining
+k=125: Connectivity: 100.00%
+
+Analysing network with k=150
+Removed 150 nodes, 1534 nodes remaining
+k=125: Connectivity: 100.00%
+
+Analysing network with k=150
+Removed 150 nodes, 1534 nodes remaining
+k=125: Connectivity: 100.00%
+
+Analysing network with k=150
+Removed 150 nodes, 1534 nodes remaining
+k=125: Connectivity: 100.00%
+
+Analysing network with k=150
+Removed 150 nodes, 1534 nodes remaining
+k=150: Connectivity: 100.00%
+
+Analysing network with k=175
+Removed 175 nodes, 1509 nodes remaining
+k=125: Connectivity: 100.00%
+
+Analysing network with k=150
+Removed 150 nodes, 1534 nodes remaining
+k=125: Connectivity: 100.00%
+
+Analysing network with k=150
+Removed 150 nodes, 1534 nodes remaining
+k=150: Connectivity: 100.00%
+
+Analysing network with k=175
+Removed 175 nodes, 1509 nodes remaining
+k=150: Connectivity: 100.00%
+
+Analysing network with k=175
+Removed 175 nodes, 1509 nodes remaining
+k=150: Connectivity: 100.00%
+
+Analysing network with k=175
+Removed 175 nodes, 1509 nodes remaining
+k=150: Connectivity: 100.00%
+
+Analysing network with k=175
+Removed 175 nodes, 1509 nodes remaining
+k=150: Connectivity: 100.00%
+
+Analysing network with k=175
+Removed 175 nodes, 1509 nodes remaining
+k=175: Connectivity: 100.00%
+k=150: Connectivity: 100.00%
+
+Analysing network with k=200
+Removed 200 nodes, 1484 nodes remaining
+
+Analysing network with k=175
+Removed 175 nodes, 1509 nodes remaining
+k=150: Connectivity: 100.00%
+
+Analysing network with k=175
+Removed 175 nodes, 1509 nodes remaining
+k=175: Connectivity: 100.00%
+
+Analysing network with k=200
+Removed 200 nodes, 1484 nodes remaining
+k=175: Connectivity: 100.00%
+
+Analysing network with k=200
+Removed 200 nodes, 1484 nodes remaining
+k=175: Connectivity: 100.00%
+
+Analysing network with k=200
+Removed 200 nodes, 1484 nodes remaining
+k=175: Connectivity: 100.00%
+
+Analysing network with k=200
+Removed 200 nodes, 1484 nodes remaining
+k=175: Connectivity: 100.00%
+
+Analysing network with k=200
+Removed 200 nodes, 1484 nodes remaining
+k=175: Connectivity: 100.00%
+
+Analysing network with k=200
+Removed 200 nodes, 1484 nodes remaining
+k=200: Connectivity: 100.00%
+
+Analysing network with k=225
+Removed 225 nodes, 1459 nodes remaining
+k=175: Connectivity: 100.00%
+
+Analysing network with k=200
+Removed 200 nodes, 1484 nodes remaining
+k=200: Connectivity: 100.00%
+
+Analysing network with k=225
+Removed 225 nodes, 1459 nodes remaining
+k=200: Connectivity: 100.00%
+
+Analysing network with k=225
+Removed 225 nodes, 1459 nodes remaining
+k=200: Connectivity: 100.00%
+
+Analysing network with k=225
+Removed 225 nodes, 1459 nodes remaining
+k=200: Connectivity: 100.00%
+
+Analysing network with k=225
+Removed 225 nodes, 1459 nodes remaining
+k=225: Connectivity: 100.00%
+
+Analysing network with k=250
+Removed 250 nodes, 1434 nodes remaining
+k=200: Connectivity: 100.00%
+
+Analysing network with k=225
+Removed 225 nodes, 1459 nodes remaining
+k=200: Connectivity: 100.00%
+
+Analysing network with k=225
+Removed 225 nodes, 1459 nodes remaining
+k=225: Connectivity: 100.00%
+
+Analysing network with k=250
+Removed 250 nodes, 1434 nodes remaining
+k=200: Connectivity: 100.00%
+
+Analysing network with k=225
+Removed 225 nodes, 1459 nodes remaining
+k=225: Connectivity: 100.00%
+
+Analysing network with k=250
+Removed 250 nodes, 1434 nodes remaining
+k=225: Connectivity: 100.00%
+
+Analysing network with k=250
+Removed 250 nodes, 1434 nodes remaining
+k=225: Connectivity: 100.00%
+
+Analysing network with k=250
+Removed 250 nodes, 1434 nodes remaining
+k=250: Connectivity: 100.00%
+Saving resilience metrics...
+Saving resilience metrics to ../analysis/data/starlink_550/5000ms_for_200s/network_paths
+Processing 11 k values
+Writing 11 rows to CSV
+k=225: Connectivity: 100.00%
+
+Analysing network with k=250
+Removed 250 nodes, 1434 nodes remaining
+k=250: Connectivity: 100.00%
+Saving resilience metrics...
+Saving resilience metrics to ../analysis/data/starlink_550/5000ms_for_200s/network_paths
+Processing 11 k values
+Writing 11 rows to CSV
+Successfully saved resilience metrics
+Time point 160000000000 processing complete
+
+Processing time point 190000000000
+Constructing graph...
+Debug time info:
+Epoch: 2000-01-01 00:00:00.000
+Computation time: 2000-01-01 00:03:10.000
+Time since epoch (ns): 190000000000
+k=225: Connectivity: 100.00%
+
+Analysing network with k=250
+Removed 250 nodes, 1434 nodes remaining
+k=250: Connectivity: 100.00%
+Saving resilience metrics...
+Saving resilience metrics to ../analysis/data/starlink_550/5000ms_for_200s/network_paths
+Processing 11 k values
+Writing 11 rows to CSV
+Successfully saved resilience metrics
+Time point 165000000000 processing complete
+Completed 33/40 time points (Successful: 33)
+Saving graph pickle...
+Graph constructed with 1684 nodes
+Calculating base metrics...
+Saving graph pickle...
+Graph constructed with 1684 nodes
+Calculating base metrics...
+k=250: Connectivity: 100.00%
+Saving resilience metrics...
+Saving resilience metrics to ../analysis/data/starlink_550/5000ms_for_200s/network_paths
+Processing 11 k values
+Writing 11 rows to CSV
+Successfully saved resilience metrics
+Time point 175000000000 processing complete
+Completed 34/40 time points (Successful: 34)
+k=225: Connectivity: 100.00%
+
+Analysing network with k=250
+Removed 250 nodes, 1434 nodes remaining
+k=250: Connectivity: 100.00%
+Saving resilience metrics...
+Saving resilience metrics to ../analysis/data/starlink_550/5000ms_for_200s/network_paths
+Processing 11 k values
+Writing 11 rows to CSV
+Successfully saved resilience metrics
+Time point 170000000000 processing complete
+Completed 35/40 time points (Successful: 35)
+k=250: Connectivity: 100.00%
+Saving resilience metrics...
+Saving resilience metrics to ../analysis/data/starlink_550/5000ms_for_200s/network_paths
+Processing 11 k values
+Writing 11 rows to CSV
+Successfully saved resilience metrics
+Time point 185000000000 processing complete
+Completed 36/40 time points (Successful: 36)
+k=250: Connectivity: 98.00%
+Saving resilience metrics...
+Saving resilience metrics to ../analysis/data/starlink_550/5000ms_for_200s/network_paths
+Processing 11 k values
+Writing 11 rows to CSV
+Successfully saved resilience metrics
+Time point 155000000000 processing complete
+Completed 37/40 time points (Successful: 37)
+k=250: Connectivity: 100.00%
+Saving resilience metrics...
+Saving resilience metrics to ../analysis/data/starlink_550/5000ms_for_200s/network_paths
+Processing 11 k values
+Writing 11 rows to CSV
+Successfully saved resilience metrics
+Time point 150000000000 processing complete
+Completed 38/40 time points (Successful: 38)
+Base connectivity: 100.00%
+Saving path metrics...
+Saving betweenness metrics...
+Starting resilience analysis...
+Starting resilience analysis with 1684 nodes
+Calculating initial betweenness centrality...
+Base connectivity: 100.00%
+Saving path metrics...
+Saving betweenness metrics...
+Starting resilience analysis...
+Starting resilience analysis with 1684 nodes
+Calculating initial betweenness centrality...
+Found 1584 satellite nodes
+€ÀŒ4o   ßŒ4o   æŒ4o   áŒ4o  €ÜŒ4o   ýŒ4o   ÜŒ4o   ÛŒ4o   îŒ4o  €ÅŒ4o  €äŒ4o   äŒ4o  €êŒ4o  €ÏŒ4o  €ïŒ4o   ãŒ4o   ÃŒ4o  €ÎŒ4o   ÷Œ4o   ÁŒ4o  €÷Œ4o   ÆŒ4o  €ÔŒ4o   ×Œ4o  €ÌŒ4o   ÚŒ4o  €æŒ4o   ÍŒ4o  €ÈŒ4o   ÉŒ4o  €ÿŒ4o   ÏŒ4o   ðŒ4o   çŒ4o  €íŒ4o  €ÆŒ4o  €ÁŒ4o  €ÞŒ4o   ÇŒ4o   ÈŒ4o  €áŒ4o   ùŒ4o  €îŒ4o   ÝŒ4o  €ßŒ4
+Analysing network with k=0
+Removed 0 nodes, 1684 nodes remaining
+Found 1584 satellite nodes
+
+Analysing network with k=0
+Removed 0 nodes, 1684 nodes remaining
+k=0: Connectivity: 100.00%
+
+Analysing network with k=25
+Removed 25 nodes, 1659 nodes remaining
+k=0: Connectivity: 100.00%
+
+Analysing network with k=25
+Removed 25 nodes, 1659 nodes remaining
+k=25: Connectivity: 100.00%
+
+Analysing network with k=50
+Removed 50 nodes, 1634 nodes remaining
+k=25: Connectivity: 100.00%
+
+Analysing network with k=50
+Removed 50 nodes, 1634 nodes remaining
+k=50: Connectivity: 100.00%
+
+Analysing network with k=75
+Removed 75 nodes, 1609 nodes remaining
+k=50: Connectivity: 100.00%
+
+Analysing network with k=75
+Removed 75 nodes, 1609 nodes remaining
+k=75: Connectivity: 100.00%
+
+Analysing network with k=100
+Removed 100 nodes, 1584 nodes remaining
+k=75: Connectivity: 100.00%
+
+Analysing network with k=100
+Removed 100 nodes, 1584 nodes remaining
+k=100: Connectivity: 100.00%
+
+Analysing network with k=125
+Removed 125 nodes, 1559 nodes remaining
+k=100: Connectivity: 100.00%
+
+Analysing network with k=125
+Removed 125 nodes, 1559 nodes remaining
+k=125: Connectivity: 100.00%
+
+Analysing network with k=150
+Removed 150 nodes, 1534 nodes remaining
+k=125: Connectivity: 100.00%
+
+Analysing network with k=150
+Removed 150 nodes, 1534 nodes remaining
+k=150: Connectivity: 96.02%
+
+Analysing network with k=175
+Removed 175 nodes, 1509 nodes remaining
+k=150: Connectivity: 96.02%
+
+Analysing network with k=175
+Removed 175 nodes, 1509 nodes remaining
+k=175: Connectivity: 96.02%
+
+Analysing network with k=200
+Removed 200 nodes, 1484 nodes remaining
+k=175: Connectivity: 96.02%
+
+Analysing network with k=200
+Removed 200 nodes, 1484 nodes remaining
+k=200: Connectivity: 96.02%
+
+Analysing network with k=225
+Removed 225 nodes, 1459 nodes remaining
+k=200: Connectivity: 96.02%
+
+Analysing network with k=225
+Removed 225 nodes, 1459 nodes remaining
+k=225: Connectivity: 96.02%
+
+Analysing network with k=250
+Removed 250 nodes, 1434 nodes remaining
+k=225: Connectivity: 96.02%
+
+Analysing network with k=250
+Removed 250 nodes, 1434 nodes remaining
+k=250: Connectivity: 92.12%
+Saving resilience metrics...
+Saving resilience metrics to ../analysis/data/starlink_550/5000ms_for_200s/network_paths
+Processing 11 k values
+Writing 11 rows to CSV
+Successfully saved resilience metrics
+Time point 195000000000 processing complete
+Completed 39/40 time points (Successful: 39)
+k=250: Connectivity: 96.02%
+Saving resilience metrics...
+Saving resilience metrics to ../analysis/data/starlink_550/5000ms_for_200s/network_paths
+Processing 11 k values
+Writing 11 rows to CSV
+Successfully saved resilience metrics
+Time point 190000000000 processing complete
+Completed 40/40 time points (Successful: 40)
+
+Finished parallel processing
+Successfully processed 40/40 time points
+Metrics saved to ../analysis/data/starlink_550/5000ms_for_200s/network_paths/path_metrics.csv, ../analysis/data/starlink_550/5000ms_for_200s/network_paths/betweenness_metrics.csv
+Network analysis complete

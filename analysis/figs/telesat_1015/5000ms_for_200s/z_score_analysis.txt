@@ -1,0 +1,84 @@
+Z-Score Analysis Results
+=======================
+
+Baseline Statistics (k=0):
+  Mean connectivity_percentage: 100.00
+  Standard Deviation: 0.00
+
+Analysis by k value:
+-------------------
+
+K Value: 25
+---------
+Mean connectivity_percentage: 100.00
+Change from baseline: 0.00
+Z-score: nan
+Statistically significant change: False
+
+K Value: 50
+---------
+Mean connectivity_percentage: 100.00
+Change from baseline: 0.00
+Z-score: nan
+Statistically significant change: False
+
+K Value: 75
+---------
+Mean connectivity_percentage: 100.00
+Change from baseline: 0.00
+Z-score: nan
+Statistically significant change: False
+
+K Value: 100
+---------
+Mean connectivity_percentage: 100.00
+Change from baseline: 0.00
+Z-score: nan
+Statistically significant change: False
+
+K Value: 125
+---------
+Mean connectivity_percentage: 100.00
+Change from baseline: 0.00
+Z-score: nan
+Statistically significant change: False
+
+K Value: 150
+---------
+Mean connectivity_percentage: 100.00
+Change from baseline: 0.00
+Z-score: nan
+Statistically significant change: False
+
+K Value: 175
+---------
+Mean connectivity_percentage: 100.00
+Change from baseline: 0.00
+Z-score: nan
+Statistically significant change: False
+
+K Value: 200
+---------
+Mean connectivity_percentage: 100.00
+Change from baseline: 0.00
+Z-score: nan
+Statistically significant change: False
+
+K Value: 225
+---------
+Mean connectivity_percentage: 99.71
+Change from baseline: -0.29
+Z-score: inf
+Statistically significant change: True
+
+K Value: 250
+---------
+Mean connectivity_percentage: 97.19
+Change from baseline: -2.81
+Z-score: inf
+Statistically significant change: True
+
+Interpretation:
+--------------
+First significant change occurs at k=225
+Significant changes in k values: 225, 250

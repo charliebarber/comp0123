@@ -1,0 +1,133 @@
+Starting path analysis...
+core_network_folder_name: kuiper_630
+Loading input data...
+Setting up parameters...
+Will process 100 time points
+Using 8 worker threads
+
+Starting parallel processing...
+
+Processing batch starting at time point 0
+Completed 1/100 time points (Successful: 1)
+Completed 2/100 time points (Successful: 2)
+Completed 3/100 time points (Successful: 3)
+Completed 4/100 time points (Successful: 4)
+Completed 5/100 time points (Successful: 5)
+Completed 6/100 time points (Successful: 6)
+Completed 7/100 time points (Successful: 7)
+Completed 8/100 time points (Successful: 8)
+Completed 9/100 time points (Successful: 9)
+Completed 10/100 time points (Successful: 10)
+
+Processing batch starting at time point 20000000000
+Completed 11/100 time points (Successful: 11)
+Completed 12/100 time points (Successful: 12)
+Completed 13/100 time points (Successful: 13)
+Completed 14/100 time points (Successful: 14)
+Completed 15/100 time points (Successful: 15)
+Completed 16/100 time points (Successful: 16)
+Completed 17/100 time points (Successful: 17)
+Completed 18/100 time points (Successful: 18)
+Completed 19/100 time points (Successful: 19)
+Completed 20/100 time points (Successful: 20)
+
+Processing batch starting at time point 40000000000
+Completed 21/100 time points (Successful: 21)
+Completed 22/100 time points (Successful: 22)
+Completed 23/100 time points (Successful: 23)
+Completed 24/100 time points (Successful: 24)
+Completed 25/100 time points (Successful: 25)
+Completed 26/100 time points (Successful: 26)
+Completed 27/100 time points (Successful: 27)
+Completed 28/100 time points (Successful: 28)
+Completed 29/100 time points (Successful: 29)
+Completed 30/100 time points (Successful: 30)
+
+Processing batch starting at time point 60000000000
+Completed 31/100 time points (Successful: 31)
+Completed 32/100 time points (Successful: 32)
+Completed 33/100 time points (Successful: 33)
+Completed 34/100 time points (Successful: 34)
+Completed 35/100 time points (Successful: 35)
+Completed 36/100 time points (Successful: 36)
+Completed 37/100 time points (Successful: 37)
+Completed 38/100 time points (Successful: 38)
+Completed 39/100 time points (Successful: 39)
+Completed 40/100 time points (Successful: 40)
+
+Processing batch starting at time point 80000000000
+Completed 41/100 time points (Successful: 41)
+Completed 42/100 time points (Successful: 42)
+Completed 43/100 time points (Successful: 43)
+Completed 44/100 time points (Successful: 44)
+Completed 45/100 time points (Successful: 45)
+Completed 46/100 time points (Successful: 46)
+Completed 47/100 time points (Successful: 47)
+Completed 48/100 time points (Successful: 48)
+Completed 49/100 time points (Successful: 49)
+Completed 50/100 time points (Successful: 50)
+
+Processing batch starting at time point 100000000000
+Completed 51/100 time points (Successful: 51)
+Completed 52/100 time points (Successful: 52)
+Completed 53/100 time points (Successful: 53)
+Completed 54/100 time points (Successful: 54)
+Completed 55/100 time points (Successful: 55)
+Completed 56/100 time points (Successful: 56)
+Completed 57/100 time points (Successful: 57)
+Completed 58/100 time points (Successful: 58)
+Completed 59/100 time points (Successful: 59)
+Completed 60/100 time points (Successful: 60)
+
+Processing batch starting at time point 120000000000
+Completed 61/100 time points (Successful: 61)
+Completed 62/100 time points (Successful: 62)
+Completed 63/100 time points (Successful: 63)
+Completed 64/100 time points (Successful: 64)
+Completed 65/100 time points (Successful: 65)
+Completed 66/100 time points (Successful: 66)
+Completed 67/100 time points (Successful: 67)
+Completed 68/100 time points (Successful: 68)
+Completed 69/100 time points (Successful: 69)
+Completed 70/100 time points (Successful: 70)
+
+Processing batch starting at time point 140000000000
+Completed 71/100 time points (Successful: 71)
+Completed 72/100 time points (Successful: 72)
+Completed 73/100 time points (Successful: 73)
+Completed 74/100 time points (Successful: 74)
+Completed 75/100 time points (Successful: 75)
+Completed 76/100 time points (Successful: 76)
+Completed 77/100 time points (Successful: 77)
+Completed 78/100 time points (Successful: 78)
+Completed 79/100 time points (Successful: 79)
+Completed 80/100 time points (Successful: 80)
+
+Processing batch starting at time point 160000000000
+Completed 81/100 time points (Successful: 81)
+Completed 82/100 time points (Successful: 82)
+Completed 83/100 time points (Successful: 83)
+Completed 84/100 time points (Successful: 84)
+Completed 85/100 time points (Successful: 85)
+Completed 86/100 time points (Successful: 86)
+Completed 87/100 time points (Successful: 87)
+Completed 88/100 time points (Successful: 88)
+Completed 89/100 time points (Successful: 89)
+Completed 90/100 time points (Successful: 90)
+
+Processing batch starting at time point 180000000000
+Completed 91/100 time points (Successful: 91)
+Completed 92/100 time points (Successful: 92)
+Completed 93/100 time points (Successful: 93)
+Completed 94/100 time points (Successful: 94)
+Completed 95/100 time points (Successful: 95)
+Completed 96/100 time points (Successful: 96)
+Completed 97/100 time points (Successful: 97)
+Completed 98/100 time points (Successful: 98)
+Completed 99/100 time points (Successful: 99)
+Completed 100/100 time points (Successful: 100)
+
+Finished parallel processing
+Successfully processed 100/100 time points
+Metrics saved to ../analysis/data/kuiper_630/2000ms_for_200s/network_paths/path_metrics.csv, ../analysis/data/kuiper_630/2000ms_for_200s/network_paths/betweenness_metrics.csv
+Network analysis complete

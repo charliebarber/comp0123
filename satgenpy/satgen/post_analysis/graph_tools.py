@@ -24,27 +24,65 @@ from satgen.distance_tools import *
 import networkx as nx
 from astropy import units as u
 import numpy as np
+import ephem
+from datetime import timedelta
+import math
+
+earth_radius = 6378137.0  # Earth's radius in meters
+AU_TO_METERS = 149597870700  # 1 AU in meters
 
 def construct_graph_with_distances(epoch, time_since_epoch_ns, satellites, ground_stations, list_isls,
-                                   max_gsl_length_m, max_isl_length_m):
+                                   max_gsl_length_m, max_isl_length_m, network):
     try:
         # Time calculation
         time = epoch + time_since_epoch_ns * u.ns
         str_epoch = str(epoch)
         str_time = str(time)
+
+        print(f"Debug time info:")
+        print(f"Epoch: {str_epoch}")
+        print(f"Computation time: {str_time}")
+        print(f"Time since epoch (ns): {time_since_epoch_ns}")
         
         # Create graph
         sat_net_graph = nx.Graph()
         n_satellites = len(satellites)
-        
+        seconds_since_epoch = time_since_epoch_ns / 1e9
+
+        altitude = 550000
+        if network == "starlink_550":
+            altitude = 550000
+        elif network == "kuiper_630":
+            altitude = 630000
+        elif network == "telesat_1015":
+            altitude = 101500
+
         # Add satellite nodes
-        for i in range(n_satellites):
-            sat_net_graph.add_node(i, type='satellite')
+        for i, satellite in enumerate(satellites):
+            # sat_net_graph.add_node(i, type='satellite')
+            temp_observer = ephem.Observer()
+            temp_observer.date = str_time
+            temp_observer.lat = 0
+            temp_observer.lon = 0
+            temp_observer.elevation = 0
+            
+            satellite.compute(temp_observer)
+            sat_net_graph.add_node(
+                i, 
+                type='satellite', 
+                lat_deg=str(satellite.sublat/ephem.degree), 
+                long_deg=str(satellite.sublong/ephem.degree), 
+                altitude=altitude
+            )
+
+            lat = satellite.sublat/ephem.degree
+            long = satellite.sublong/ephem.degree
             
         # Add ground station nodes
-        for i in range(len(ground_stations)):
+        for i, ground_station in enumerate(ground_stations):
             gs_node = n_satellites + i
-            sat_net_graph.add_node(gs_node, type='ground_station')
+            sat_net_graph.add_node(gs_node, type='ground_station', lat_str=ground_station['latitude_degrees_str'], long_str=ground_station['longitude_degrees_str'], elevation=ground_station['elevation_m_float'])
+
         
         # Process ISLs
         if list_isls:

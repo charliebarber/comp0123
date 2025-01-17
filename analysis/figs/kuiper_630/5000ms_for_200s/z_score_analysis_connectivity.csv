@@ -1,0 +1,12 @@
+K Value,Mean Connectivity Percentage,Change from Baseline,Z-score,Statistically Significant
+0,99.92,0,0,False
+25,99.88,-0.04,0.10,False
+50,99.75,-0.17,0.41,False
+75,99.67,-0.25,0.62,False
+100,99.29,-0.62,1.54,False
+125,98.72,-1.20,2.97,True
+150,97.60,-2.31,5.72,True
+175,96.62,-3.30,8.16,True
+200,94.92,-4.99,12.36,True
+225,92.93,-6.98,17.29,True
+250,88.54,-11.38,28.17,True
